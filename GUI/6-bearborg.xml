@@ -1,0 +1,166 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="bear_control_tab_6.png" transparent="0"  />
+	
+	<StaticText x="33" y="17" w="100" h="18" text="OSCILLATORS" color_text="#A59C6EFF" transparent="1"   />
+
+	<StaticText x="9" y="27" w="100" h="18" text="Soft" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="80" x="42" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="69" y="27" w="100" h="18" text="Medium" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="83" x="102" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="129" y="27" w="100" h="18" text="Hard" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="86" x="162" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="9" y="97" w="100" h="18" text="Breath" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="89" x="42" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="9" y="167" w="100" h="18" text="Unison" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="81" x="42" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="69" y="167" w="100" h="18" text="Width" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="82" x="102" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="129" y="167" w="100" h="18" text="Detune" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="92" x="162" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText                x="9"  y="237"  w="100" h="18"  text="POLYPHONY"  font_size="Small" alignment="center" color_text="#A59C6EFF" transparent="1"   />		
+	<OptionMenu    param="121"  x="40"  y="255"  w="40" h="18"  font_size="Small" alignment="center" color_text="#000000FF"  color_back="#ffffffcc" transparent="0"   >	
+		<OptionItem name="Poly"		    value="0.0" />
+		<OptionItem name="Mono"	    value="1.0" />	
+	</OptionMenu>	
+
+	<StaticText x="69" y="237" w="100" h="18" text="Glide" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="120" x="102" y="260" image="bear_knob.png" frames="128"  />
+
+	<!-- Controls - Envelope-->
+
+	<StaticText x="240" y="17" w="100" h="18" text="ENVELOPE" color_text="#A59C6EFF" transparent="1"   />
+
+	<StaticText x="229" y="27" w="100" h="18" text="Attack" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="70" x="262" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="289" y="27" w="100" h="18" text="Hold" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="71" x="322" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="349" y="27" w="100" h="18" text="Decay" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="72" x="382" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="409" y="27" w="100" h="18" text="Sustain" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="73" x="442" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="469" y="27" w="100" h="18" text="Release" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="74" x="502" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="529" y="27" w="100" h="18" text="Env Extend" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="93" x="562" y="50" image="bear_knob.png" frames="128"  />
+
+	<!-- Controls - Filter-->
+
+	<StaticText x="230" y="87" w="100" h="18" text="FILTER" color_text="#A59C6EFF" transparent="1"   />
+
+	<StaticText x="229" y="97" w="100" h="18" text="Cutoff" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="102" x="262" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="289" y="97" w="100" h="18" text="Resonance" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="103" x="322" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="349" y="97" w="100" h="18" text="Vel Track" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="111" x="382" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="409" y="97" w="100" h="18" text="Wobble" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="107" x="442" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="469" y="97" w="100" h="18" text="Speed" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="108" x="502" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="529" y="97" w="100" h="18" text="Pluck" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="104" x="562" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="589" y="97" w="100" h="18" text="Attack" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="105" x="622" y="120" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="649" y="97" w="100" h="18" text="Decay" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="106" x="682" y="120" image="bear_knob.png" frames="128"  />
+
+
+	<!-- Controls - Vibrato-->
+
+	<StaticText x="237" y="157" w="100" h="18" text="VIBRATO" color_text="#A59C6EFF" transparent="1"   />
+
+	<StaticText x="229" y="167" w="100" h="18" text="Depth" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="96" x="262" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="289" y="167" w="100" h="18" text="Speed" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="97" x="322" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="349" y="167" w="100" h="18" text="Delay" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="98" x="382" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="409" y="167" w="100" h="18" text="Fade" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="99" x="442" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="469" y="167" w="100" h="18" text="Tremolo" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="100" x="502" y="190" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="529" y="167" w="100" h="18" text="Breath" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="101" x="562" y="190" image="bear_knob.png" frames="128"  />
+
+	<!-- Controls - Humanize-->
+
+	<StaticText x="254" y="227" w="100" h="18" text="HUMANIZATION" color_text="#A59C6EFF" transparent="1"   />
+
+	<StaticText x="229" y="237" w="100" h="18" text="Rate" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="114" x="262" y="260" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="289" y="237" w="100" h="18" text="Pitch" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="115" x="322" y="260" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="349" y="237" w="100" h="18" text="Vib Speed" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="116" x="382" y="260" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="409" y="237" w="100" h="18" text="Wobble" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="117" x="442" y="260" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="469" y="237" w="100" h="18" text="Breath" color_text="#A59C6EFF" transparent="1"   />
+
+	<Knob param="118" x="502" y="260" image="bear_knob.png" frames="128"  />
+
+
+
+</GUI>                                                                                                                                       

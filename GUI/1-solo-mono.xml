@@ -1,0 +1,91 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="bear_control_tab_1.png" transparent="0"  />
+	
+	<!-- Controls - Mix first-->
+
+	<StaticText x="24" y="10" w="130" h="20" text="SUSTAIN DYNAMICS" color_text="#A59C6EFF" transparent="1"  />
+
+	<StaticText x="39" y="27" w="100" h="18" text="Mod Wheel (CC1)" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="1" x="72" y="50" image="bear_knob.png" frames="128"  />
+	
+
+	<!-- Controls - Envelope-->
+
+	<StaticText x="189" y="10" w="100" h="20" text="ENVELOPE" color_text="#A59C6EFF" transparent="1"  />
+
+	<StaticText x="189" y="27" w="100" h="18" text="Attack" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="100" x="222" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="249" y="27" w="100" h="18" text="Legato Attack" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="101" x="282" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="309" y="27" w="100" h="18" text="Release" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="104" x="342" y="50" image="bear_knob.png" frames="128"  />
+
+	<!-- Controls - Misc-->
+
+	<StaticText x="429" y="10" w="100" h="20" text="GLIDE" color_text="#A59C6EFF" transparent="1"  />
+
+	<StaticText x="429" y="27" w="100" h="18" text="Time" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="123" x="462" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="549" y="10" w="100" h="20" text="NOISES" color_text="#A59C6EFF" transparent="1"  />
+
+	<StaticText x="549" y="27" w="100" h="18" text="Breath" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="122" x="582" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="609" y="27" w="100" h="18" text="Fingering" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="121" x="642" y="50" image="bear_knob.png" frames="128"  />
+
+	<!-- Controls - Vibrato on row two-->
+	
+	<StaticText x="129" y="240" w="160" h="20" text="VIBRATO DESTINATIONS" color_text="#A59C6EFF" transparent="1"  />
+
+	<StaticText x="129" y="257" w="100" h="18" text="Sax Style" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="111" x="162" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="189" y="257" w="100" h="18" text="Violin Style" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="114" x="222" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="249" y="257" w="100" h="18" text="Tremolo" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="113" x="282" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="309" y="257" w="100" h="18" text="To EQ" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="115" x="342" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="369" y="257" w="100" h="18" text="To Breath" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="110" x="402" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="489" y="240" w="160" h="20" text="VIBRATO OSCILLATOR" color_text="#A59C6EFF" transparent="1"  />
+
+	<StaticText x="489" y="257" w="100" h="18" text="Rate" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="112" x="522" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="549" y="257" w="100" h="18" text="Delay" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="116" x="582" y="280" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="609" y="257" w="100" h="18" text="Humanize" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="117" x="642" y="280" image="bear_knob.png" frames="128"  />
+
+
+
+
+</GUI>                                                                                                                                       

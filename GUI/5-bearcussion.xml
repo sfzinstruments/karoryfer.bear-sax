@@ -1,0 +1,23 @@
+<GUI w="775" h="335">
+ 
+	<!-- Background -->
+
+	<StaticImage x="1" y="1" w="773" h="333" image="bear_control_tab_5.png" transparent="0"  />
+	
+	<!-- Controls - Not a lot for the bearcussion-->
+
+	<StaticText x="239" y="27" w="100" h="18" text="Stereo" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="82" x="272" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="339" y="27" w="100" h="18" text="Master Tune" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="93" x="372" y="50" image="bear_knob.png" frames="128"  />
+
+	<StaticText x="439" y="27" w="100" h="18" text="Tune Spread" color_text="#A59C6EFF" transparent="1"   />
+	
+	<Knob param="94" x="472" y="50" image="bear_knob.png" frames="128"  />
+
+
+
+</GUI>                                                                                                                                       
