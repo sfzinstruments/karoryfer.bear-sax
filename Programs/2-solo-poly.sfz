@@ -1,0 +1,91 @@
+<control>
+label_cc1=Dynamics
+label_cc7=Master Vol
+label_cc10=Master Pan
+label_cc100=Attack  
+label_cc104=Release
+label_cc110=Vibrato To Wind
+label_cc111=Vibrato Depth 
+label_cc112=Vibrato Speed
+label_cc113=Tremolo Depth
+label_cc114=Violin Vibrato
+label_cc115=Vibrato To EQ
+label_cc116=Vibrato Delay
+label_cc117=Humanize
+label_cc121=Fingering Noise
+label_cc122=Breath Noise
+
+set_cc1=64
+set_cc7=100
+set_cc10=64
+set_cc100=0
+set_cc104=28
+set_cc112=32
+set_cc116=45
+set_cc117=32
+
+<global>
+amplitude_oncc7=100 //Master volume and pan
+pan=-100
+pan_oncc10=200
+
+ampeg_attack=0.001 //Attack and release - no AHDSR
+ampeg_sustain=100
+ampeg_release=0.001
+ampeg_attack_oncc100=0.3 
+ampeg_release_oncc104=2
+
+lfo01_pitch_oncc111=20 //Saxy vibrato LFO - goes down from the main pitch
+lfo01_freq=1.5
+lfo01_freq_oncc112=6
+lfo01_phase=0.25 //To make it start at the top
+lfo01_delay_oncc116=1
+pitcheg_delay_oncc116=1 //Pitch envelope to drop the central pitch when sax vibrato kicks in
+pitcheg_depth_oncc111=-20
+
+lfo02_pitch_oncc114=20 //Violiny vibrato LFO - goes below and above main pitch
+lfo02_freq=1.5
+lfo02_freq_oncc112=6 //Same rate as the first LFO
+lfo02_delay_oncc116=1 //Same delay, too
+lfo02_volume=0 //This LFO also does tremolo, tremolo settings for the wind noise are in the wind noise mapping file
+lfo02_volume_oncc113=3
+lfo02_phase=0.5 //To make it go down first, then up
+eq1_freq=2500 //Also can send this LFO to EQ
+eq1_bw=2
+eq1_gain=0.001 //Needs to be non-zero, apparently?
+lfo02_eq1gain_oncc115=6
+lfo02_eq1freq_oncc115=1200
+
+lfo03_wave=1 //Third LFO to make things wobblier
+lfo03_phase=0.3
+lfo03_phase_oncc131=11.7 //Pseudorandom based on velocity - true random would make dynamic layers phase out of sync
+lfo03_freq=0.01 //Basically no movement at very slow speeds, just randomization
+lfo03_freq_oncc117=1 //Max rate is not very high, so it doesn't sound too obvious
+lfo03_pitch_oncc117=6 //Slight pitch wobbliness
+lfo03_freq_lfo01_oncc117=1.3 //Affect the rate of the other LFOs for unsteady vibrato
+lfo03_freq_lfo02_oncc117=1.3
+
+lfo04_wave=1 //And a fourth LFO for secondhand complex wobbliness
+lfo04_phase=0.871
+lfo04_phase_oncc131=2.429 //Different phase response to velocity than the second LFO
+lfo04_freq=0.5
+lfo04_freq_oncc117=-0.4
+lfo04_freq_lfo2_oncc117=1
+lfo04_pitch_oncc117=-4
+
+bend_up=500 //A fourth
+bend_down=-500
+
+sw_lokey=24
+sw_hikey=28
+sw_default=24
+
+
+#include "poly/breath.sfz"
+#include "poly/dynfade_map.sfz"
+#include "poly/noises_map.sfz"
+#include "poly/staccato_map.sfz"
+#include "poly/growl_map.sfz"
+#include "poly/sub_map.sfz"
+#include "poly/dynfade_marcato_long_map.sfz"
+#include "poly/marcato_short_map.sfz"

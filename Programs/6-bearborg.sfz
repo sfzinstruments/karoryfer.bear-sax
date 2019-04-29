@@ -1,0 +1,156 @@
+<control>
+set_cc7=100
+set_cc10=64
+set_cc70=0  
+set_cc71=0 
+set_cc72=16
+set_cc73=127 
+set_cc74=10
+set_cc80=100
+set_cc83=100
+set_cc86=64
+set_cc92=40
+set_cc97=32
+set_cc102=127
+set_cc106=12
+set_cc108=32
+set_cc111=64
+
+label_cc7=Master Vol
+label_cc10=Master Pan (disabled)
+label_cc70=Attack  
+label_cc71=Hold  
+label_cc72=Decay  
+label_cc73=Sustain
+label_cc74=Release
+label_cc80=Soft Vol
+label_cc81=Unison
+label_cc82=Width
+label_cc83=Medium Vol
+label_cc86=Hard Vol
+label_cc89=Breath Vol
+label_cc92=Detune
+label_cc93=Env Extend
+label_cc96=Vibrato Depth
+label_cc97=Vibrato Speed
+label_cc98=Vibrato Delay
+label_cc99=Vibrato Fade
+label_cc100=Tremolo
+label_cc101=Vibrato Breath
+label_cc102=Cutoff
+label_cc103=Resonance
+label_cc104=Pluck Depth
+label_cc105=Pluck Attack
+label_cc106=Pluck Decay
+label_cc107=Wobble Depth
+label_cc108=Wobble Speed
+label_cc111=Lowpass Veltrack
+label_cc114=Humanize Rate
+label_cc115=Humanize Pitch
+label_cc116=Humanize Vibrato
+label_cc117=Humanize Wobble
+label_cc118=Humanize Breath
+label_cc120=Porta Time
+label_cc121=Monophonic Switch
+
+<global>
+amplitude_oncc7=100
+pan=0
+pan_oncc10=0
+
+//AHDSR envelope - with extra sustain/release for soft osc dynamic layers in its files
+ampeg_attack=0.002
+ampeg_sustain=0
+ampeg_release=0.002
+ampeg_attack_oncc70=0.5 
+ampeg_hold_oncc71=2 
+ampeg_decay_oncc72=10
+ampeg_sustain_oncc73=100
+ampeg_release_oncc74=5
+
+//Vibrato LFO
+lfo01_pitch_oncc96=20
+lfo01_freq_oncc97=10
+lfo01_delay_oncc98=0.5
+lfo01_fade_oncc99=1.0
+lfo01_volume_oncc100=12 //Also does tremolo, separately for breath noise
+
+//Lowpass filter
+cutoff=1120
+cutoff_cc102=8200
+fil_keytrack=100
+resonance=0
+resonance_cc103=20
+var01_cutoff=6000 //Velocity track
+var01_mod=mult
+var01_oncc131=1
+var01_oncc111=1
+cutoff_cc111=-3000
+
+//Pluck envelope
+fileg_depth=0
+fileg_depthcc104=6000
+fileg_sustain=0
+fileg_attack=0
+fileg_attackcc105=0.5
+fileg_decay=0.001
+fileg_decaycc106=2
+
+//Filter cutoff wobble LFO
+lfo02_cutoff=0
+lfo02_cutoff_oncc107=3600
+lfo02_freq_oncc108=10
+lfo02_delay_oncc98=0.3 //Same fade and delay times as vibrato to simplify
+lfo02_fade_oncc99=0.5
+
+lfo03_wave=1 //Random phase sine LFO to humanize the other LFOs a bit, also affects screech noise - see screech noise mapping file
+lfo03_phase=0
+lfo03_phase_oncc135=1 //Random
+lfo03_freq=0.01
+lfo03_freq_oncc114=1 //This one has its own rate indepedent of the other two
+lfo3_freq_lfo1_oncc116=1 //Affecting vibrato speed
+lfo3_freq_lfo2_oncc117=1 //Affecting wobble speed
+lfo3_pitch_oncc115=6 //And some pitch drifting around
+
+eg06_sustain=1 //Pitch envelope setup for legato slides in mono mode
+eg06_level0=-1
+eg06_time0=0
+eg06_pitch_oncc140=100
+eg06_time1=0 //When this is 0, the envelope really does nothing
+eg06_level1=0
+//eg06_time1_oncc120 needs to be set for the monophonic regions - but we don't want it on for all regions so the default is 0
+off_mode=fast
+//and the monophonic groups in the appropriate files are
+//1 and 2 noise
+//4 5 and 6 single cycle osc
+//7 8 and 9 medium osc
+//10 11 and 12 soft osc
+
+bend_up=1200
+bend_down=-1200
+
+#include "bearborg/single_cycle_center_mono.sfz"
+#include "bearborg/single_cycle_sides_mono.sfz"
+#include "bearborg/noise_mono.sfz"
+#include "bearborg/single_cycle_center.sfz"
+#include "bearborg/single_cycle_sides.sfz"
+#include "bearborg/noise.sfz"
+#include "bearborg/soft_center.sfz"
+#include "bearborg/soft_center_mono.sfz"
+#include "bearborg/soft_sides.sfz"
+#include "bearborg/soft_sides_mono.sfz"
+#include "bearborg/medium_center.sfz"
+#include "bearborg/medium_center_mono.sfz"
+#include "bearborg/medium_sides.sfz"
+#include "bearborg/medium_sides_mono.sfz"
+
+<curve>curve_index=8
+v000=0
+v032=0.03
+v064=0.1
+v096=0.5
+v127=1
+
+<curve>curve_index=10
+v000=1
+v127=0

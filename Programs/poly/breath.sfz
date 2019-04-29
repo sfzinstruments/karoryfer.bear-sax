@@ -1,0 +1,15 @@
+
+<group>
+sample=../Samples/noise_breath.wav
+lokey=36
+hikey=68
+amp_veltrack=0
+loop_mode=loop_continuous
+pitch_keycenter=50
+pitch_keytrack=10 //Just slight variation with pitch
+amplitude_oncc122=40 //Pretty quiet
+xfin_hicc1=15
+lfo02_volume_oncc110=-7 //Backwards from the regular tremolo - noise gets louder when the note gets quieter
+lfo02_volume_oncc113=0 //Unaffected by regular tremolo CC
+lfo03_volume_oncc122=4 //LFO3 is random - this makes the noise less steady
+<region>
