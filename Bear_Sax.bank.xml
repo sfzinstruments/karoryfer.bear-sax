@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<Key>4217D7008B7023F506DB36401D5EB46E5EE03A64FD8E68295E45C5BD6C180160F9754B53780D32ED2EF322C6B12AFCE353FD18B09C4942A3EED4ADBDF5ADE7067C44D077AE7B55021BC3B5C4A915D34798C366EA7F3F683E3E057C0F1093983F43D7DFB3BE794686B8DEA878996EA2C3B2039DAD40A093C1944B59B5446610795FCADC76EBD68CF9A098EEBA137A0CFB57DC7567113A9A6CD49517A080C5759FCBADA3080507120F0409607F029070EB464FBBAC8942DBFA5F50940793E9950B7381BA23C61CE1D3F2786C76BC857D100920FC9165CC49EA05394A5CC62ADA5DFF9DA9DD86733B05386203E2B070E38342AE13D6DD85A163A233771FB7AA858D</Key>
+<AriaBank  id="2512" name="Bear Sax" vendor="Karoryfer" product="Bear Sax" version="1000" >
+
+	<Define name="$sample_dir" value="../Samples"/>
+	
+	<!-- branding for Aria Player and sforzando UIs -->
+	<AriaGUI path="GUI/aria_info.xml"  target="*ARIA_INFO" />
+	
+	<AriaProgram  name="01 - solo-mono"			gui="GUI/1-solo-mono.xml" >		<AriaElement  path="Programs/1-solo-mono.sfz"/>			</AriaProgram>
+	<AriaProgram  name="02 - solo-poly"			gui="GUI/2-solo-poly.xml" >		<AriaElement  path="Programs/2-solo-poly.sfz"/>			</AriaProgram>
+	<AriaProgram  name="03 - duo-mono"			gui="GUI/3-duo-mono.xml" >		<AriaElement  path="Programs/3-duo-mono.sfz"/>			</AriaProgram>
+	<AriaProgram  name="04 - duo-poly"			gui="GUI/4-duo-poly.xml" >		<AriaElement  path="Programs/4-duo-poly.sfz"/>			</AriaProgram>
+	<AriaProgram  name="05 - bearcussion"		gui="GUI/5-bearcussion.xml" >	<AriaElement  path="Programs/5-bearcussion.sfz"/>		</AriaProgram>
+	<AriaProgram  name="06 - bearborg"			gui="GUI/6-bearborg.xml" >		<AriaElement  path="Programs/6-bearborg.sfz"/>			</AriaProgram>
+
+</AriaBank>
