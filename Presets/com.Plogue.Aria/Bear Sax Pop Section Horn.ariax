@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<AriaSave version="1911" productID="1014">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" automationlevel="instrument" liveMode="0" scala="01 - equal.scl" scalaCenter="60" globalTuning="0" />
+    <Slot id="0" name="01 - solo-mono" bankId="2512" version="1000" channel="-1" poly="64" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" mute="0" sw_last="25">
+        <Main id="0" value="1" />
+        <Param id="1" value="0.5010629892349243" />
+        <Param id="101" value="0.6686614155769348" />
+        <Param id="104" value="0.2004724442958832" />
+        <Param id="111" value="0.1550000011920929" />
+        <Param id="112" value="0.3319684863090515" />
+        <Param id="113" value="0.1599999964237213" />
+        <Param id="114" value="0.2599999904632568" />
+        <Param id="115" value="0.4300000071525574" />
+        <Param id="116" value="0.5993307232856751" />
+        <Param id="117" value="0.119999997317791" />
+    </Slot>
+    <EffectSlot id="0" name="Ambience" bankId="1014" version="1845" />
+    <GUI id="0" selectedTab="1" />
+</AriaSave>

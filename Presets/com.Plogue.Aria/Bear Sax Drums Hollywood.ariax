@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<AriaSave version="1911" productID="1014">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" automationlevel="instrument" liveMode="0" scala="01 - equal.scl" scalaCenter="60" globalTuning="0" />
+    <Slot id="0" name="05 - bearcussion" bankId="2512" version="1000" channel="-1" poly="64" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" mute="0">
+        <Main id="0" value="1" />
+
+        <Param id="82" value="0.664" />
+        <Param id="93" value="0.391" />
+        <Param id="94" value="0.715" />
+        <Param id="131" value="0.669" />
+    </Slot>
+    <EffectSlot id="0" name="Ambience" bankId="1014" version="1845" />
+    <GUI id="0" selectedTab="1" />
+</AriaSave>

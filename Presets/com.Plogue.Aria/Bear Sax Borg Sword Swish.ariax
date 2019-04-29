@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<AriaSave version="1911" productID="1014">
+    <Settings quality="1" streaming="32" maxStreamAllocMB="512" MIDIOutMode="1" automationSlot="0" automationlevel="instrument" liveMode="0" scala="01 - equal.scl" scalaCenter="60" globalTuning="0" />
+    <Slot id="0" name="06 - bearborg" bankId="2512" version="1000" channel="-1" poly="64" tuning="0" pb_range="-1" ptrans="0" mtrans="0" moctave="0" mute="0">
+        <Main id="0" value="1" />
+        <Param id="72" value="0.166" />
+        <Param id="73" value="0" />
+        <Param id="74" value="0.1087" />
+        <Param id="80" value="0" />
+        <Param id="82" value="0.410" />
+        <Param id="83" value="0" />
+        <Param id="86" value="0" />
+        <Param id="89" value="1" />
+        <Param id="92" value="0" />
+        <Param id="98" value="0.39" />
+        <Param id="99" value="0.345" />
+        <Param id="102" value="0" />
+        <Param id="103" value="0.325" />
+        <Param id="104" value="0.6545" />
+        <Param id="105" value="0.11" />
+        <Param id="106" value="0.149" />
+        <Param id="107" value="0.19" />
+        <Param id="108" value="0.557" />
+        <Param id="111" value="0.603" />
+        <Param id="114" value="0.225" />
+        <Param id="116" value="0.58" />
+        <Param id="117" value="0.48" />
+        <Param id="118" value="0.52" />
+        <Param id="121" value="1" />
+    </Slot>
+    <EffectSlot id="0" name="Ambience" bankId="1014" version="1845" />
+    <GUI id="0" selectedTab="1" />
+</AriaSave>
