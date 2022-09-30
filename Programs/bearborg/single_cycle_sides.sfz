@@ -8,7 +8,7 @@ locc81=1
 amplitude_cc81=100
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=24
 hikey=24
 offset_random=4546
@@ -17,7 +17,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=24
 hikey=24
 offset_random=1345
@@ -26,7 +26,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=25
 hikey=25
 offset_random=1345
@@ -35,7 +35,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=25
 hikey=25
 offset_random=8535
@@ -44,7 +44,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=26
 hikey=26
 offset_random=8535
@@ -53,7 +53,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=26
 hikey=26
 offset_random=5463
@@ -62,7 +62,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=27
 hikey=27
 offset_random=4546
@@ -71,7 +71,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=27
 hikey=27
 offset_random=1345
@@ -80,7 +80,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=28
 hikey=28
 offset_random=1345
@@ -89,7 +89,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=28
 hikey=28
 offset_random=8535
@@ -98,7 +98,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=29
 hikey=29
 offset_random=8535
@@ -107,7 +107,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=29
 hikey=29
 offset_random=5463
@@ -116,7 +116,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=30
 hikey=30
 offset_random=4546
@@ -125,7 +125,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=30
 hikey=30
 offset_random=1345
@@ -134,7 +134,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=31
 hikey=31
 offset_random=1345
@@ -143,7 +143,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=31
 hikey=31
 offset_random=8535
@@ -152,7 +152,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=32
 hikey=32
 offset_random=8535
@@ -161,7 +161,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=32
 hikey=32
 offset_random=5463
@@ -170,7 +170,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=33
 hikey=33
 offset_random=4546
@@ -179,7 +179,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=33
 hikey=33
 offset_random=1345
@@ -188,7 +188,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=34
 hikey=34
 offset_random=1345
@@ -197,7 +197,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=34
 hikey=34
 offset_random=8535
@@ -206,7 +206,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=35
 hikey=35
 offset_random=8535
@@ -215,7 +215,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=35
 hikey=35
 offset_random=5463
@@ -224,7 +224,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=36
 hikey=36
 offset_random=4546
@@ -233,7 +233,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=36
 hikey=36
 offset_random=1345
@@ -242,7 +242,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=37
 hikey=37
 offset_random=1345
@@ -251,7 +251,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=37
 hikey=37
 offset_random=8535
@@ -260,7 +260,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=38
 hikey=38
 offset_random=8535
@@ -269,7 +269,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=38
 hikey=38
 offset_random=5463
@@ -278,7 +278,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=39
 hikey=39
 offset_random=5463
@@ -287,7 +287,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/f1_single_cycle.wav
+sample=../Samples/f1_single_cycle.flac
 lokey=39
 hikey=39
 offset_random=7234
@@ -296,7 +296,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/f1_single_cycle.wav
+sample=../Samples/f1_single_cycle.flac
 lokey=40
 hikey=40
 offset_random=7234
@@ -305,7 +305,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/gb1_single_cycle.wav
+sample=../Samples/gb1_single_cycle.flac
 lokey=40
 hikey=40
 offset_random=4236
@@ -314,7 +314,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/gb1_single_cycle.wav
+sample=../Samples/gb1_single_cycle.flac
 lokey=41
 hikey=41
 offset_random=4236
@@ -323,7 +323,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/g1_single_cycle.wav
+sample=../Samples/g1_single_cycle.flac
 lokey=41
 hikey=41
 offset_random=5832
@@ -332,7 +332,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g1_single_cycle.wav
+sample=../Samples/g1_single_cycle.flac
 lokey=42
 hikey=42
 offset_random=5832
@@ -341,7 +341,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab1_single_cycle.wav
+sample=../Samples/ab1_single_cycle.flac
 lokey=42
 hikey=42
 offset_random=8234
@@ -350,7 +350,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/ab1_single_cycle.wav
+sample=../Samples/ab1_single_cycle.flac
 lokey=43
 hikey=43
 offset_random=8234
@@ -359,7 +359,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/a1_single_cycle.wav
+sample=../Samples/a1_single_cycle.flac
 lokey=43
 hikey=43
 offset_random=6234
@@ -368,7 +368,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/a1_single_cycle.wav
+sample=../Samples/a1_single_cycle.flac
 lokey=44
 hikey=44
 offset_random=6234
@@ -377,7 +377,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/bb1_single_cycle.wav
+sample=../Samples/bb1_single_cycle.flac
 lokey=44
 hikey=44
 offset_random=7283
@@ -386,7 +386,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/bb1_single_cycle.wav
+sample=../Samples/bb1_single_cycle.flac
 lokey=45
 hikey=45
 offset_random=7283
@@ -395,7 +395,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/b1_single_cycle.wav
+sample=../Samples/b1_single_cycle.flac
 lokey=45
 hikey=45
 offset_random=9438
@@ -404,7 +404,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/b1_single_cycle.wav
+sample=../Samples/b1_single_cycle.flac
 lokey=46
 hikey=46
 offset_random=9438
@@ -413,7 +413,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/c2_single_cycle.wav
+sample=../Samples/c2_single_cycle.flac
 lokey=46
 hikey=46
 offset_random=5328
@@ -422,7 +422,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/c2_single_cycle.wav
+sample=../Samples/c2_single_cycle.flac
 lokey=47
 hikey=47
 offset_random=5328
@@ -431,7 +431,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/db2_single_cycle.wav
+sample=../Samples/db2_single_cycle.flac
 lokey=47
 hikey=47
 offset_random=9742
@@ -440,7 +440,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/db2_single_cycle.wav
+sample=../Samples/db2_single_cycle.flac
 lokey=48
 hikey=48
 offset_random=9742
@@ -449,7 +449,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d2_single_cycle.wav
+sample=../Samples/d2_single_cycle.flac
 lokey=48
 hikey=48
 offset_random=1392
@@ -458,7 +458,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d2_single_cycle.wav
+sample=../Samples/d2_single_cycle.flac
 lokey=49
 hikey=49
 offset_random=1392
@@ -467,7 +467,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb2_single_cycle.wav
+sample=../Samples/eb2_single_cycle.flac
 lokey=49
 hikey=49
 offset_random=2754
@@ -476,7 +476,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb2_single_cycle.wav
+sample=../Samples/eb2_single_cycle.flac
 lokey=50
 hikey=50
 offset_random=2754
@@ -485,7 +485,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e2_single_cycle.wav
+sample=../Samples/e2_single_cycle.flac
 lokey=50
 hikey=50
 offset_random=8524
@@ -494,7 +494,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/e2_single_cycle.wav
+sample=../Samples/e2_single_cycle.flac
 lokey=51
 hikey=51
 offset_random=8524
@@ -503,7 +503,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/f2_single_cycle.wav
+sample=../Samples/f2_single_cycle.flac
 lokey=51
 hikey=51
 offset_random=3643
@@ -512,7 +512,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/f2_single_cycle.wav
+sample=../Samples/f2_single_cycle.flac
 lokey=52
 hikey=52
 offset_random=3643
@@ -521,7 +521,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/gb2_single_cycle.wav
+sample=../Samples/gb2_single_cycle.flac
 lokey=52
 hikey=52
 offset_random=7234
@@ -530,7 +530,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/gb2_single_cycle.wav
+sample=../Samples/gb2_single_cycle.flac
 lokey=53
 hikey=53
 offset_random=7234
@@ -539,7 +539,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/g2_single_cycle.wav
+sample=../Samples/g2_single_cycle.flac
 lokey=53
 hikey=53
 offset_random=9325
@@ -548,7 +548,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g2_single_cycle.wav
+sample=../Samples/g2_single_cycle.flac
 lokey=54
 hikey=54
 offset_random=9325
@@ -557,7 +557,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab2_single_cycle.wav
+sample=../Samples/ab2_single_cycle.flac
 lokey=54
 hikey=54
 offset_random=3468
@@ -566,7 +566,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/ab2_single_cycle.wav
+sample=../Samples/ab2_single_cycle.flac
 lokey=55
 hikey=55
 offset_random=3468
@@ -575,7 +575,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/a2_single_cycle.wav
+sample=../Samples/a2_single_cycle.flac
 lokey=55
 hikey=55
 offset_random=7542
@@ -584,7 +584,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/a2_single_cycle.wav
+sample=../Samples/a2_single_cycle.flac
 lokey=56
 hikey=56
 offset_random=7542
@@ -593,7 +593,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/bb2_single_cycle.wav
+sample=../Samples/bb2_single_cycle.flac
 lokey=56
 hikey=56
 offset_random=2834
@@ -602,7 +602,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/bb2_single_cycle.wav
+sample=../Samples/bb2_single_cycle.flac
 lokey=57
 hikey=57
 offset_random=2834
@@ -611,7 +611,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/b2_single_cycle.wav
+sample=../Samples/b2_single_cycle.flac
 lokey=57
 hikey=57
 offset_random=5845
@@ -620,7 +620,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/b2_single_cycle.wav
+sample=../Samples/b2_single_cycle.flac
 lokey=58
 hikey=58
 offset_random=5845
@@ -629,7 +629,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/c3_single_cycle.wav
+sample=../Samples/c3_single_cycle.flac
 lokey=58
 hikey=58
 offset_random=7892
@@ -637,7 +637,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/c3_single_cycle.wav
+sample=../Samples/c3_single_cycle.flac
 lokey=59
 hikey=59
 offset_random=7892
@@ -645,7 +645,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/db3_single_cycle.wav
+sample=../Samples/db3_single_cycle.flac
 lokey=59
 hikey=59
 offset_random=5273
@@ -654,7 +654,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/db3_single_cycle.wav
+sample=../Samples/db3_single_cycle.flac
 lokey=60
 hikey=60
 offset_random=5273
@@ -663,7 +663,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/d3_single_cycle.wav
+sample=../Samples/d3_single_cycle.flac
 lokey=60
 hikey=60
 offset_random=2057
@@ -672,7 +672,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/d3_single_cycle.wav
+sample=../Samples/d3_single_cycle.flac
 lokey=61
 hikey=61
 offset_random=2057
@@ -681,7 +681,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/eb3_single_cycle.wav
+sample=../Samples/eb3_single_cycle.flac
 lokey=61
 hikey=61
 offset_random=9248
@@ -690,7 +690,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/eb3_single_cycle.wav
+sample=../Samples/eb3_single_cycle.flac
 lokey=62
 hikey=62
 offset_random=9248
@@ -699,7 +699,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/e3_single_cycle.wav
+sample=../Samples/e3_single_cycle.flac
 lokey=62
 hikey=62
 offset_random=7245
@@ -708,7 +708,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/e3_single_cycle.wav
+sample=../Samples/e3_single_cycle.flac
 lokey=63
 hikey=63
 offset_random=7245
@@ -717,7 +717,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/f3_single_cycle.wav
+sample=../Samples/f3_single_cycle.flac
 lokey=63
 hikey=63
 offset_random=6235
@@ -726,7 +726,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/f3_single_cycle.wav
+sample=../Samples/f3_single_cycle.flac
 lokey=64
 hikey=64
 offset_random=6235
@@ -735,7 +735,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=64
 hikey=64
 offset_random=7422
@@ -744,7 +744,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=65
 hikey=65
 offset_random=7422
@@ -753,7 +753,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=65
 hikey=65
 offset_random=8456
@@ -762,7 +762,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=66
 hikey=66
 offset_random=8456
@@ -771,7 +771,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=66
 hikey=66
 offset_random=8674
@@ -780,7 +780,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=67
 hikey=67
 offset_random=4542
@@ -789,7 +789,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=67
 hikey=67
 offset_random=8674
@@ -798,7 +798,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=68
 hikey=68
 offset_random=4542
@@ -807,7 +807,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=68
 hikey=68
 offset_random=3234
@@ -816,7 +816,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=69
 hikey=69
 offset_random=8456
@@ -825,7 +825,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=69
 hikey=69
 offset_random=8674
@@ -834,7 +834,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=70
 hikey=70
 offset_random=4542
@@ -843,7 +843,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=70
 hikey=70
 offset_random=8674
@@ -852,7 +852,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=71
 hikey=71
 offset_random=4542
@@ -861,7 +861,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=71
 hikey=71
 offset_random=3234
@@ -870,7 +870,7 @@ tune_oncc92=-13
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=72
 hikey=72
 offset_random=8456
@@ -879,7 +879,7 @@ tune_oncc92=13
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=72
 hikey=72
 offset_random=8674

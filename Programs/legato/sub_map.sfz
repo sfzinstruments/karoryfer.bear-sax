@@ -9,429 +9,429 @@ sw_label=sub
 xfin_hicc1=127
 
 <region>
-sample=../Samples/subtone_eb1_rr1.wav
+sample=../Samples/subtone_eb1_rr1.flac
 lokey=36
 hikey=36
 pitch_keycenter=39
 
 <region>
-sample=../Samples/subtone_eb1_rr2.wav
+sample=../Samples/subtone_eb1_rr2.flac
 lokey=36
 hikey=36
 seq_position=2
 pitch_keycenter=39
 
 <region>
-sample=../Samples/subtone_e1_rr1.wav
+sample=../Samples/subtone_e1_rr1.flac
 lokey=37
 hikey=37
 pitch_keycenter=40
 
 <region>
-sample=../Samples/subtone_e1_rr2.wav
+sample=../Samples/subtone_e1_rr2.flac
 lokey=37
 hikey=37
 seq_position=2
 pitch_keycenter=40
 
 <region>
-sample=../Samples/subtone_f1_rr1.wav
+sample=../Samples/subtone_f1_rr1.flac
 lokey=38
 hikey=38
 pitch_keycenter=41
 
 <region>
-sample=../Samples/subtone_f1_rr2.wav
+sample=../Samples/subtone_f1_rr2.flac
 lokey=38
 hikey=38
 seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=../Samples/subtone_eb1_rr1.wav
+sample=../Samples/subtone_eb1_rr1.flac
 lokey=39
 hikey=39
 pitch_keycenter=39
 
 <region>
-sample=../Samples/subtone_eb1_rr2.wav
+sample=../Samples/subtone_eb1_rr2.flac
 lokey=39
 hikey=39
 seq_position=2
 pitch_keycenter=39
 
 <region>
-sample=../Samples/subtone_e1_rr1.wav
+sample=../Samples/subtone_e1_rr1.flac
 lokey=40
 hikey=40
 pitch_keycenter=40
 
 <region>
-sample=../Samples/subtone_e1_rr2.wav
+sample=../Samples/subtone_e1_rr2.flac
 lokey=40
 hikey=40
 seq_position=2
 pitch_keycenter=40
 
 <region>
-sample=../Samples/subtone_f1_rr1.wav
+sample=../Samples/subtone_f1_rr1.flac
 lokey=41
 hikey=41
 pitch_keycenter=41
 
 <region>
-sample=../Samples/subtone_f1_rr2.wav
+sample=../Samples/subtone_f1_rr2.flac
 lokey=41
 hikey=41
 seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=../Samples/subtone_gb1_rr1.wav
+sample=../Samples/subtone_gb1_rr1.flac
 lokey=42
 hikey=42
 pitch_keycenter=42
 
 <region>
-sample=../Samples/subtone_gb1_rr2.wav
+sample=../Samples/subtone_gb1_rr2.flac
 lokey=42
 hikey=42
 seq_position=2
 pitch_keycenter=42
 
 <region>
-sample=../Samples/subtone_g1_rr1.wav
+sample=../Samples/subtone_g1_rr1.flac
 lokey=43
 hikey=43
 pitch_keycenter=43
 
 <region>
-sample=../Samples/subtone_g1_rr2.wav
+sample=../Samples/subtone_g1_rr2.flac
 lokey=43
 hikey=43
 seq_position=2
 pitch_keycenter=43
 
 <region>
-sample=../Samples/subtone_ab1_rr1.wav
+sample=../Samples/subtone_ab1_rr1.flac
 lokey=44
 hikey=44
 pitch_keycenter=44
 
 <region>
-sample=../Samples/subtone_ab1_rr2.wav
+sample=../Samples/subtone_ab1_rr2.flac
 lokey=44
 hikey=44
 seq_position=2
 pitch_keycenter=44
 
 <region>
-sample=../Samples/subtone_a1_rr1.wav
+sample=../Samples/subtone_a1_rr1.flac
 lokey=45
 hikey=45
 pitch_keycenter=45
 
 <region>
-sample=../Samples/subtone_a1_rr2.wav
+sample=../Samples/subtone_a1_rr2.flac
 lokey=45
 hikey=45
 seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=../Samples/subtone_bb1_rr1.wav
+sample=../Samples/subtone_bb1_rr1.flac
 lokey=46
 hikey=46
 pitch_keycenter=46
 
 <region>
-sample=../Samples/subtone_bb1_rr2.wav
+sample=../Samples/subtone_bb1_rr2.flac
 lokey=46
 hikey=46
 seq_position=2
 pitch_keycenter=46
 
 <region>
-sample=../Samples/subtone_b1_rr1.wav
+sample=../Samples/subtone_b1_rr1.flac
 lokey=47
 hikey=47
 pitch_keycenter=47
 
 <region>
-sample=../Samples/subtone_b1_rr2.wav
+sample=../Samples/subtone_b1_rr2.flac
 lokey=47
 hikey=47
 seq_position=2
 pitch_keycenter=47
 
 <region>
-sample=../Samples/subtone_c2_rr1.wav
+sample=../Samples/subtone_c2_rr1.flac
 lokey=48
 hikey=48
 pitch_keycenter=48
 
 <region>
-sample=../Samples/subtone_c2_rr2.wav
+sample=../Samples/subtone_c2_rr2.flac
 lokey=48
 hikey=48
 seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=../Samples/subtone_db2_rr1.wav
+sample=../Samples/subtone_db2_rr1.flac
 lokey=49
 hikey=49
 pitch_keycenter=49
 
 <region>
-sample=../Samples/subtone_db2_rr2.wav
+sample=../Samples/subtone_db2_rr2.flac
 lokey=49
 hikey=49
 seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=../Samples/subtone_d2_rr1.wav
+sample=../Samples/subtone_d2_rr1.flac
 lokey=50
 hikey=50
 pitch_keycenter=50
 
 <region>
-sample=../Samples/subtone_d2_rr2.wav
+sample=../Samples/subtone_d2_rr2.flac
 lokey=50
 hikey=50
 seq_position=2
 pitch_keycenter=50
 
 <region>
-sample=../Samples/subtone_eb2_rr1.wav
+sample=../Samples/subtone_eb2_rr1.flac
 lokey=51
 hikey=51
 pitch_keycenter=51
 
 <region>
-sample=../Samples/subtone_eb2_rr2.wav
+sample=../Samples/subtone_eb2_rr2.flac
 lokey=51
 hikey=51
 seq_position=2
 pitch_keycenter=51
 
 <region>
-sample=../Samples/subtone_e2_rr1.wav
+sample=../Samples/subtone_e2_rr1.flac
 lokey=52
 hikey=52
 pitch_keycenter=52
 
 <region>
-sample=../Samples/subtone_e2_rr2.wav
+sample=../Samples/subtone_e2_rr2.flac
 lokey=52
 hikey=52
 seq_position=2
 pitch_keycenter=52
 
 <region>
-sample=../Samples/subtone_f1_rr1.wav
+sample=../Samples/subtone_f1_rr1.flac
 lokey=53
 hikey=53
 pitch_keycenter=41
 
 <region>
-sample=../Samples/subtone_f1_rr2.wav
+sample=../Samples/subtone_f1_rr2.flac
 lokey=53
 hikey=53
 seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=../Samples/subtone_gb1_rr1.wav
+sample=../Samples/subtone_gb1_rr1.flac
 lokey=54
 hikey=54
 pitch_keycenter=42
 
 <region>
-sample=../Samples/subtone_gb1_rr2.wav
+sample=../Samples/subtone_gb1_rr2.flac
 lokey=54
 hikey=54
 seq_position=2
 pitch_keycenter=42
 
 <region>
-sample=../Samples/subtone_g1_rr1.wav
+sample=../Samples/subtone_g1_rr1.flac
 lokey=55
 hikey=55
 pitch_keycenter=43
 
 <region>
-sample=../Samples/subtone_g1_rr2.wav
+sample=../Samples/subtone_g1_rr2.flac
 lokey=55
 hikey=55
 seq_position=2
 pitch_keycenter=43
 
 <region>
-sample=../Samples/subtone_ab1_rr1.wav
+sample=../Samples/subtone_ab1_rr1.flac
 lokey=56
 hikey=56
 pitch_keycenter=44
 
 <region>
-sample=../Samples/subtone_ab1_rr2.wav
+sample=../Samples/subtone_ab1_rr2.flac
 lokey=56
 hikey=56
 seq_position=2
 pitch_keycenter=44
 
 <region>
-sample=../Samples/subtone_a1_rr1.wav
+sample=../Samples/subtone_a1_rr1.flac
 lokey=57
 hikey=57
 pitch_keycenter=45
 
 <region>
-sample=../Samples/subtone_a1_rr2.wav
+sample=../Samples/subtone_a1_rr2.flac
 lokey=57
 hikey=57
 seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=../Samples/subtone_bb1_rr1.wav
+sample=../Samples/subtone_bb1_rr1.flac
 lokey=58
 hikey=58
 pitch_keycenter=46
 
 <region>
-sample=../Samples/subtone_bb1_rr2.wav
+sample=../Samples/subtone_bb1_rr2.flac
 lokey=58
 hikey=58
 seq_position=2
 pitch_keycenter=46
 
 <region>
-sample=../Samples/subtone_b1_rr1.wav
+sample=../Samples/subtone_b1_rr1.flac
 lokey=59
 hikey=59
 pitch_keycenter=47
 
 <region>
-sample=../Samples/subtone_b1_rr2.wav
+sample=../Samples/subtone_b1_rr2.flac
 lokey=59
 hikey=59
 seq_position=2
 pitch_keycenter=47
 
 <region>
-sample=../Samples/subtone_c2_rr1.wav
+sample=../Samples/subtone_c2_rr1.flac
 lokey=60
 hikey=60
 pitch_keycenter=48
 
 <region>
-sample=../Samples/subtone_c2_rr2.wav
+sample=../Samples/subtone_c2_rr2.flac
 lokey=60
 hikey=60
 seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=../Samples/subtone_db2_rr1.wav
+sample=../Samples/subtone_db2_rr1.flac
 lokey=61
 hikey=61
 pitch_keycenter=49
 
 <region>
-sample=../Samples/subtone_db2_rr2.wav
+sample=../Samples/subtone_db2_rr2.flac
 lokey=61
 hikey=61
 seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=../Samples/subtone_d2_rr1.wav
+sample=../Samples/subtone_d2_rr1.flac
 lokey=62
 hikey=62
 pitch_keycenter=50
 
 <region>
-sample=../Samples/subtone_d2_rr2.wav
+sample=../Samples/subtone_d2_rr2.flac
 lokey=62
 hikey=62
 seq_position=2
 pitch_keycenter=50
 
 <region>
-sample=../Samples/subtone_eb2_rr1.wav
+sample=../Samples/subtone_eb2_rr1.flac
 lokey=63
 hikey=63
 pitch_keycenter=51
 
 <region>
-sample=../Samples/subtone_eb2_rr2.wav
+sample=../Samples/subtone_eb2_rr2.flac
 lokey=63
 hikey=63
 seq_position=2
 pitch_keycenter=51
 
 <region>
-sample=../Samples/subtone_e2_rr1.wav
+sample=../Samples/subtone_e2_rr1.flac
 lokey=64
 hikey=64
 pitch_keycenter=52
 
 <region>
-sample=../Samples/subtone_e2_rr2.wav
+sample=../Samples/subtone_e2_rr2.flac
 lokey=64
 hikey=64
 seq_position=2
 pitch_keycenter=52
 
 <region>
-sample=../Samples/subtone_db2_rr1.wav
+sample=../Samples/subtone_db2_rr1.flac
 lokey=65
 hikey=65
 pitch_keycenter=49
 
 <region>
-sample=../Samples/subtone_db2_rr2.wav
+sample=../Samples/subtone_db2_rr2.flac
 lokey=65
 hikey=65
 seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=../Samples/subtone_d2_rr1.wav
+sample=../Samples/subtone_d2_rr1.flac
 lokey=66
 hikey=66
 pitch_keycenter=50
 
 <region>
-sample=../Samples/subtone_d2_rr2.wav
+sample=../Samples/subtone_d2_rr2.flac
 lokey=66
 hikey=66
 seq_position=2
 pitch_keycenter=50
 
 <region>
-sample=../Samples/subtone_eb2_rr1.wav
+sample=../Samples/subtone_eb2_rr1.flac
 lokey=67
 hikey=67
 pitch_keycenter=51
 
 <region>
-sample=../Samples/subtone_eb2_rr2.wav
+sample=../Samples/subtone_eb2_rr2.flac
 lokey=67
 hikey=67
 seq_position=2
 pitch_keycenter=51
 
 <region>
-sample=../Samples/subtone_e2_rr1.wav
+sample=../Samples/subtone_e2_rr1.flac
 lokey=68
 hikey=68
 pitch_keycenter=52
 
 <region>
-sample=../Samples/subtone_e2_rr2.wav
+sample=../Samples/subtone_e2_rr2.flac
 lokey=68
 hikey=68
 seq_position=2

@@ -1,6 +1,6 @@
 
 <group>
-sample=../Samples/noise_breath.wav
+sample=../Samples/noise_breath.flac
 lokey=36
 hikey=68
 amp_veltrack=0

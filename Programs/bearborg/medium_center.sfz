@@ -9,342 +9,342 @@ amp_velcurve_63=0.600
 amplitude_cc83=100
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=24
 hikey=24
 offset_random=4654
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_looped_f.wav
+sample=../Samples/db1_looped_f.flac
 lokey=25
 hikey=25
 offset_random=7978
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=26
 hikey=26
 offset_random=3543
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=27
 hikey=27
 offset_random=4654
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_looped_f.wav
+sample=../Samples/db1_looped_f.flac
 lokey=28
 hikey=28
 offset_random=7978
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=29
 hikey=29
 offset_random=3543
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=30
 hikey=30
 offset_random=4654
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_looped_f.wav
+sample=../Samples/db1_looped_f.flac
 lokey=31
 hikey=31
 offset_random=7978
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=32
 hikey=32
 offset_random=3543
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=33
 hikey=33
 offset_random=4654
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_looped_f.wav
+sample=../Samples/db1_looped_f.flac
 lokey=34
 hikey=34
 offset_random=7978
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=35
 hikey=35
 offset_random=3543
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=36
 hikey=36
 offset_random=4654
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_looped_f.wav
+sample=../Samples/db1_looped_f.flac
 lokey=37
 hikey=37
 offset_random=7978
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=38
 hikey=38
 offset_random=3543
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=39
 hikey=39
 offset_random=5962
 pitch_keycenter=39
 
 <region>
-sample=../Samples/e1_looped_f.wav
+sample=../Samples/e1_looped_f.flac
 lokey=40
 hikey=40
 offset_random=4856
 pitch_keycenter=40
 
 <region>
-sample=../Samples/f1_looped_f.wav
+sample=../Samples/f1_looped_f.flac
 lokey=41
 hikey=41
 offset_random=10807
 pitch_keycenter=41
 
 <region>
-sample=../Samples/gb1_looped_f.wav
+sample=../Samples/gb1_looped_f.flac
 lokey=42
 hikey=42
 offset_random=3437
 pitch_keycenter=42
 
 <region>
-sample=../Samples/g1_looped_f.wav
+sample=../Samples/g1_looped_f.flac
 lokey=43
 hikey=43
 offset_random=8563
 pitch_keycenter=43
 
 <region>
-sample=../Samples/ab1_looped_f.wav
+sample=../Samples/ab1_looped_f.flac
 lokey=44
 hikey=44
 offset_random=9672
 pitch_keycenter=44
 
 <region>
-sample=../Samples/a1_looped_f.wav
+sample=../Samples/a1_looped_f.flac
 lokey=45
 hikey=45
 offset_random=5562
 pitch_keycenter=45
 
 <region>
-sample=../Samples/bb1_looped_f.wav
+sample=../Samples/bb1_looped_f.flac
 lokey=46
 hikey=46
 offset_random=8643
 pitch_keycenter=46
 
 <region>
-sample=../Samples/b1_looped_f.wav
+sample=../Samples/b1_looped_f.flac
 lokey=47
 hikey=47
 offset_random=4856
 pitch_keycenter=47
 
 <region>
-sample=../Samples/c2_looped_f.wav
+sample=../Samples/c2_looped_f.flac
 lokey=48
 hikey=48
 offset_random=9432
 pitch_keycenter=48
 
 <region>
-sample=../Samples/db2_looped_f.wav
+sample=../Samples/db2_looped_f.flac
 lokey=49
 hikey=49
 offset_random=7539
 pitch_keycenter=49
 
 <region>
-sample=../Samples/d2_looped_f.wav
+sample=../Samples/d2_looped_f.flac
 lokey=50
 hikey=50
 offset_random=9583
 pitch_keycenter=50
 
 <region>
-sample=../Samples/eb2_looped_f.wav
+sample=../Samples/eb2_looped_f.flac
 lokey=51
 hikey=51
 offset_random=3346
 pitch_keycenter=51
 
 <region>
-sample=../Samples/e2_looped_f.wav
+sample=../Samples/e2_looped_f.flac
 lokey=52
 hikey=52
 offset_random=10635
 pitch_keycenter=52
 
 <region>
-sample=../Samples/f2_looped_f.wav
+sample=../Samples/f2_looped_f.flac
 lokey=53
 hikey=53
 offset_random=4584
 pitch_keycenter=53
 
 <region>
-sample=../Samples/gb2_looped_f.wav
+sample=../Samples/gb2_looped_f.flac
 lokey=54
 hikey=54
 offset_random=5567
 pitch_keycenter=54
 
 <region>
-sample=../Samples/g2_looped_f.wav
+sample=../Samples/g2_looped_f.flac
 lokey=55
 hikey=55
 offset_random=8653
 pitch_keycenter=55
 
 <region>
-sample=../Samples/ab2_looped_f.wav
+sample=../Samples/ab2_looped_f.flac
 lokey=56
 hikey=56
 offset_random=6434
 pitch_keycenter=56
 
 <region>
-sample=../Samples/a2_looped_f.wav
+sample=../Samples/a2_looped_f.flac
 lokey=57
 hikey=57
 offset_random=8946
 pitch_keycenter=57
 
 <region>
-sample=../Samples/bb2_looped_f.wav
+sample=../Samples/bb2_looped_f.flac
 lokey=58
 hikey=58
 offset_random=5836
 pitch_keycenter=58
 
 <region>
-sample=../Samples/b2_looped_f.wav
+sample=../Samples/b2_looped_f.flac
 lokey=59
 hikey=59
 offset_random=7543
 pitch_keycenter=59
 
 <region>
-sample=../Samples/c3_looped_f.wav
+sample=../Samples/c3_looped_f.flac
 lokey=60
 hikey=60
 offset_random=2354
 
 <region>
-sample=../Samples/db3_looped_f.wav
+sample=../Samples/db3_looped_f.flac
 lokey=61
 hikey=61
 offset_random=7432
 pitch_keycenter=61
 
 <region>
-sample=../Samples/d3_looped_f.wav
+sample=../Samples/d3_looped_f.flac
 lokey=62
 hikey=62
 offset_random=6476
 pitch_keycenter=62
 
 <region>
-sample=../Samples/eb3_looped_f.wav
+sample=../Samples/eb3_looped_f.flac
 lokey=63
 hikey=63
 offset_random=3543
 pitch_keycenter=63
 
 <region>
-sample=../Samples/e3_looped_f.wav
+sample=../Samples/e3_looped_f.flac
 lokey=64
 hikey=64
 offset_random=8546
 pitch_keycenter=64
 
 <region>
-sample=../Samples/f3_looped_f.wav
+sample=../Samples/f3_looped_f.flac
 lokey=65
 hikey=65
 offset_random=9756
 pitch_keycenter=65
 
 <region>
-sample=../Samples/gb3_looped_f.wav
+sample=../Samples/gb3_looped_f.flac
 lokey=66
 hikey=66
 offset_random=4654
 pitch_keycenter=66
 
 <region>
-sample=../Samples/g3_looped_f.wav
+sample=../Samples/g3_looped_f.flac
 lokey=67
 hikey=67
 offset_random=8645
 pitch_keycenter=67
 
 <region>
-sample=../Samples/ab3_looped_f.wav
+sample=../Samples/ab3_looped_f.flac
 lokey=68
 hikey=68
 offset_random=3435
 pitch_keycenter=68
 
 <region>
-sample=../Samples/gb3_looped_f.wav
+sample=../Samples/gb3_looped_f.flac
 lokey=69
 hikey=69
 offset_random=5576
 pitch_keycenter=66
 
 <region>
-sample=../Samples/g3_looped_f.wav
+sample=../Samples/g3_looped_f.flac
 lokey=70
 hikey=70
 offset_random=9564
 pitch_keycenter=67
 
 <region>
-sample=../Samples/ab3_looped_f.wav
+sample=../Samples/ab3_looped_f.flac
 lokey=71
 hikey=71
 offset_random=4645
 pitch_keycenter=68
 
 <region>
-sample=../Samples/gb3_looped_f.wav
+sample=../Samples/gb3_looped_f.flac
 lokey=72
 hikey=72
 offset_random=3454

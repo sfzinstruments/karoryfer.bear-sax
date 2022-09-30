@@ -9,195 +9,195 @@ sw_label=growl
 xfin_hicc1=127
 
 <region>
-sample=../Samples/growl2_rr1.wav
+sample=../Samples/growl2_rr1.flac
 lokey=36
 hikey=36
 pitch_keycenter=38
 
 <region>
-sample=../Samples/growl2_rr2.wav
+sample=../Samples/growl2_rr2.flac
 lokey=36
 hikey=36
 seq_position=2
 pitch_keycenter=38
 
 <region>
-sample=../Samples/growl1_rr1.wav
+sample=../Samples/growl1_rr1.flac
 lokey=37
 hikey=37
 pitch_keycenter=37
 
 <region>
-sample=../Samples/growl1_rr2.wav
+sample=../Samples/growl1_rr2.flac
 lokey=37
 hikey=37
 seq_position=2
 pitch_keycenter=37
 
 <region>
-sample=../Samples/growl2_rr1.wav
+sample=../Samples/growl2_rr1.flac
 lokey=38
 hikey=38
 pitch_keycenter=38
 
 <region>
-sample=../Samples/growl2_rr2.wav
+sample=../Samples/growl2_rr2.flac
 lokey=38
 hikey=38
 seq_position=2
 pitch_keycenter=38
 
 <region>
-sample=../Samples/growl3_rr1.wav
+sample=../Samples/growl3_rr1.flac
 lokey=39
 hikey=39
 pitch_keycenter=39
 
 <region>
-sample=../Samples/growl3_rr2.wav
+sample=../Samples/growl3_rr2.flac
 lokey=39
 hikey=39
 seq_position=2
 pitch_keycenter=39
 
 <region>
-sample=../Samples/growl4_rr1.wav
+sample=../Samples/growl4_rr1.flac
 lokey=40
 hikey=40
 pitch_keycenter=40
 
 <region>
-sample=../Samples/growl4_rr2.wav
+sample=../Samples/growl4_rr2.flac
 lokey=40
 hikey=40
 seq_position=2
 pitch_keycenter=40
 
 <region>
-sample=../Samples/growl5_rr1.wav
+sample=../Samples/growl5_rr1.flac
 lokey=41
 hikey=41
 pitch_keycenter=41
 
 <region>
-sample=../Samples/growl5_rr2.wav
+sample=../Samples/growl5_rr2.flac
 lokey=41
 hikey=41
 seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=../Samples/growl6_rr1.wav
+sample=../Samples/growl6_rr1.flac
 lokey=42
 hikey=42
 pitch_keycenter=42
 
 <region>
-sample=../Samples/growl6_rr2.wav
+sample=../Samples/growl6_rr2.flac
 lokey=42
 hikey=42
 seq_position=2
 pitch_keycenter=42
 
 <region>
-sample=../Samples/growl7_rr1.wav
+sample=../Samples/growl7_rr1.flac
 lokey=43
 hikey=43
 pitch_keycenter=43
 
 <region>
-sample=../Samples/growl7_rr2.wav
+sample=../Samples/growl7_rr2.flac
 lokey=43
 hikey=43
 seq_position=2
 pitch_keycenter=43
 
 <region>
-sample=../Samples/growl8_rr1.wav
+sample=../Samples/growl8_rr1.flac
 lokey=44
 hikey=44
 pitch_keycenter=44
 
 <region>
-sample=../Samples/growl8_rr2.wav
+sample=../Samples/growl8_rr2.flac
 lokey=44
 hikey=44
 seq_position=2
 pitch_keycenter=44
 
 <region>
-sample=../Samples/growl9_rr1.wav
+sample=../Samples/growl9_rr1.flac
 lokey=45
 hikey=45
 pitch_keycenter=45
 
 <region>
-sample=../Samples/growl9_rr2.wav
+sample=../Samples/growl9_rr2.flac
 lokey=45
 hikey=45
 seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=../Samples/growl10_rr1.wav
+sample=../Samples/growl10_rr1.flac
 lokey=46
 hikey=46
 pitch_keycenter=46
 
 <region>
-sample=../Samples/growl10_rr2.wav
+sample=../Samples/growl10_rr2.flac
 lokey=46
 hikey=46
 seq_position=2
 pitch_keycenter=46
 
 <region>
-sample=../Samples/growl11_rr1.wav
+sample=../Samples/growl11_rr1.flac
 lokey=47
 hikey=47
 pitch_keycenter=47
 
 <region>
-sample=../Samples/growl11_rr2.wav
+sample=../Samples/growl11_rr2.flac
 lokey=47
 hikey=47
 seq_position=2
 pitch_keycenter=47
 
 <region>
-sample=../Samples/growl12_rr1.wav
+sample=../Samples/growl12_rr1.flac
 lokey=48
 hikey=48
 pitch_keycenter=48
 
 <region>
-sample=../Samples/growl12_rr2.wav
+sample=../Samples/growl12_rr2.flac
 lokey=48
 hikey=48
 seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=../Samples/growl13_rr1.wav
+sample=../Samples/growl13_rr1.flac
 lokey=49
 hikey=49
 pitch_keycenter=49
 
 <region>
-sample=../Samples/growl13_rr2.wav
+sample=../Samples/growl13_rr2.flac
 lokey=49
 hikey=49
 seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=../Samples/growl14_rr1.wav
+sample=../Samples/growl14_rr1.flac
 lokey=50
 hikey=50
 pitch_keycenter=50
 
 <region>
-sample=../Samples/growl14_rr2.wav
+sample=../Samples/growl14_rr2.flac
 lokey=50
 hikey=50
 seq_position=2
@@ -213,108 +213,108 @@ sw_label=growl
 xfin_hicc1=127
 
 <region>
-sample=../Samples/eb2_looped_f.wav
+sample=../Samples/eb2_looped_f.flac
 lokey=51
 hikey=51
 pitch_keycenter=51
 
 <region>
-sample=../Samples/e2_looped_f.wav
+sample=../Samples/e2_looped_f.flac
 lokey=52
 hikey=52
 pitch_keycenter=52
 
 <region>
-sample=../Samples/f2_looped_f.wav
+sample=../Samples/f2_looped_f.flac
 lokey=53
 hikey=53
 pitch_keycenter=53
 
 <region>
-sample=../Samples/gb2_looped_f.wav
+sample=../Samples/gb2_looped_f.flac
 lokey=54
 hikey=54
 pitch_keycenter=54
 
 <region>
-sample=../Samples/g2_looped_f.wav
+sample=../Samples/g2_looped_f.flac
 lokey=55
 hikey=55
 pitch_keycenter=55
 
 <region>
-sample=../Samples/ab2_looped_f.wav
+sample=../Samples/ab2_looped_f.flac
 lokey=56
 hikey=56
 pitch_keycenter=56
 
 <region>
-sample=../Samples/a2_looped_f.wav
+sample=../Samples/a2_looped_f.flac
 lokey=57
 hikey=57
 pitch_keycenter=57
 
 <region>
-sample=../Samples/bb2_looped_f.wav
+sample=../Samples/bb2_looped_f.flac
 lokey=58
 hikey=58
 pitch_keycenter=58
 
 <region>
-sample=../Samples/b2_looped_f.wav
+sample=../Samples/b2_looped_f.flac
 lokey=59
 hikey=59
 pitch_keycenter=59
 
 <region>
-sample=../Samples/c3_looped_f.wav
+sample=../Samples/c3_looped_f.flac
 lokey=60
 hikey=60
 
 <region>
-sample=../Samples/db3_looped_f.wav
+sample=../Samples/db3_looped_f.flac
 lokey=61
 hikey=61
 pitch_keycenter=61
 
 <region>
-sample=../Samples/d3_looped_f.wav
+sample=../Samples/d3_looped_f.flac
 lokey=62
 hikey=62
 pitch_keycenter=62
 
 <region>
-sample=../Samples/eb3_looped_f.wav
+sample=../Samples/eb3_looped_f.flac
 lokey=63
 hikey=63
 pitch_keycenter=63
 
 <region>
-sample=../Samples/e3_looped_f.wav
+sample=../Samples/e3_looped_f.flac
 lokey=64
 hikey=64
 pitch_keycenter=64
 
 <region>
-sample=../Samples/f3_looped_f.wav
+sample=../Samples/f3_looped_f.flac
 lokey=65
 hikey=65
 pitch_keycenter=65
 
 <region>
-sample=../Samples/gb3_looped_f.wav
+sample=../Samples/gb3_looped_f.flac
 lokey=66
 hikey=66
 pitch_keycenter=66
 
 <region>
-sample=../Samples/g3_looped_f.wav
+sample=../Samples/g3_looped_f.flac
 lokey=67
 hikey=67
 pitch_keycenter=67
 
 <region>
-sample=../Samples/ab3_looped_f.wav
+sample=../Samples/ab3_looped_f.flac
 lokey=68
 hikey=68
 pitch_keycenter=68

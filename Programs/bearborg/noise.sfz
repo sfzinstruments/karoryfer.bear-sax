@@ -12,11 +12,11 @@ hicc121=63
 amp_velcurve_63=0.3
 
 <region>
-sample=../Samples/breath_osc_1.wav
+sample=../Samples/breath_osc_1.flac
 pan_oncc82=100
 offset_random=34626
 
 <region>
-sample=../Samples/breath_osc_2.wav
+sample=../Samples/breath_osc_2.flac
 pan_oncc82=-100
 offset_random=24614

@@ -9,21 +9,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/c2_close_rr1.wav
+sample=../Samples/c2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_close_rr2.wav
+sample=../Samples/c2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_close_rr3.wav
+sample=../Samples/c2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_close_rr4.wav
+sample=../Samples/c2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -38,21 +38,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/c2_open_rr1.wav
+sample=../Samples/c2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_open_rr2.wav
+sample=../Samples/c2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_open_rr3.wav
+sample=../Samples/c2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_open_rr4.wav
+sample=../Samples/c2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -66,21 +66,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/db1_close_rr1.wav
+sample=../Samples/db1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db1_close_rr2.wav
+sample=../Samples/db1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db1_close_rr3.wav
+sample=../Samples/db1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db1_close_rr4.wav
+sample=../Samples/db1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -95,21 +95,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/db1_open_rr1.wav
+sample=../Samples/db1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db1_open_rr2.wav
+sample=../Samples/db1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db1_open_rr3.wav
+sample=../Samples/db1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db1_open_rr4.wav
+sample=../Samples/db1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -123,21 +123,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/d1_close_rr1.wav
+sample=../Samples/d1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d1_close_rr2.wav
+sample=../Samples/d1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d1_close_rr3.wav
+sample=../Samples/d1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d1_close_rr4.wav
+sample=../Samples/d1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -152,21 +152,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/d1_open_rr1.wav
+sample=../Samples/d1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d1_open_rr2.wav
+sample=../Samples/d1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d1_open_rr3.wav
+sample=../Samples/d1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d1_open_rr4.wav
+sample=../Samples/d1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -180,21 +180,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/eb1_close_rr1.wav
+sample=../Samples/eb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb1_close_rr2.wav
+sample=../Samples/eb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb1_close_rr3.wav
+sample=../Samples/eb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb1_close_rr4.wav
+sample=../Samples/eb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -209,21 +209,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/eb1_open_rr1.wav
+sample=../Samples/eb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb1_open_rr2.wav
+sample=../Samples/eb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb1_open_rr3.wav
+sample=../Samples/eb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb1_open_rr4.wav
+sample=../Samples/eb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -237,21 +237,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/e1_close_rr1.wav
+sample=../Samples/e1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/e1_close_rr2.wav
+sample=../Samples/e1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/e1_close_rr3.wav
+sample=../Samples/e1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/e1_close_rr4.wav
+sample=../Samples/e1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -266,21 +266,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/e1_open_rr1.wav
+sample=../Samples/e1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/e1_open_rr2.wav
+sample=../Samples/e1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/e1_open_rr3.wav
+sample=../Samples/e1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/e1_open_rr4.wav
+sample=../Samples/e1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -294,21 +294,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/f1_close_rr1.wav
+sample=../Samples/f1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f1_close_rr2.wav
+sample=../Samples/f1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f1_close_rr3.wav
+sample=../Samples/f1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f1_close_rr4.wav
+sample=../Samples/f1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -323,21 +323,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/f1_open_rr1.wav
+sample=../Samples/f1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f1_open_rr2.wav
+sample=../Samples/f1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f1_open_rr3.wav
+sample=../Samples/f1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f1_open_rr4.wav
+sample=../Samples/f1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -351,21 +351,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/gb1_close_rr1.wav
+sample=../Samples/gb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb1_close_rr2.wav
+sample=../Samples/gb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb1_close_rr3.wav
+sample=../Samples/gb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb1_close_rr4.wav
+sample=../Samples/gb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -380,21 +380,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/gb1_open_rr1.wav
+sample=../Samples/gb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb1_open_rr2.wav
+sample=../Samples/gb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb1_open_rr3.wav
+sample=../Samples/gb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb1_open_rr4.wav
+sample=../Samples/gb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -408,21 +408,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/g1_close_rr1.wav
+sample=../Samples/g1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g1_close_rr2.wav
+sample=../Samples/g1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g1_close_rr3.wav
+sample=../Samples/g1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g1_close_rr4.wav
+sample=../Samples/g1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -437,21 +437,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/g1_open_rr1.wav
+sample=../Samples/g1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g1_open_rr2.wav
+sample=../Samples/g1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g1_open_rr3.wav
+sample=../Samples/g1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g1_open_rr4.wav
+sample=../Samples/g1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -465,21 +465,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/ab1_close_rr1.wav
+sample=../Samples/ab1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab1_close_rr2.wav
+sample=../Samples/ab1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab1_close_rr3.wav
+sample=../Samples/ab1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab1_close_rr4.wav
+sample=../Samples/ab1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -494,21 +494,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/ab1_open_rr1.wav
+sample=../Samples/ab1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab1_open_rr2.wav
+sample=../Samples/ab1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab1_open_rr3.wav
+sample=../Samples/ab1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab1_open_rr4.wav
+sample=../Samples/ab1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -522,21 +522,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/a1_close_rr1.wav
+sample=../Samples/a1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/a1_close_rr2.wav
+sample=../Samples/a1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/a1_close_rr3.wav
+sample=../Samples/a1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/a1_close_rr4.wav
+sample=../Samples/a1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -551,21 +551,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/a1_open_rr1.wav
+sample=../Samples/a1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/a1_open_rr2.wav
+sample=../Samples/a1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/a1_open_rr3.wav
+sample=../Samples/a1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/a1_open_rr4.wav
+sample=../Samples/a1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -579,21 +579,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/bb1_close_rr1.wav
+sample=../Samples/bb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/bb1_close_rr2.wav
+sample=../Samples/bb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/bb1_close_rr3.wav
+sample=../Samples/bb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/bb1_close_rr4.wav
+sample=../Samples/bb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -608,21 +608,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/bb1_open_rr1.wav
+sample=../Samples/bb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/bb1_open_rr2.wav
+sample=../Samples/bb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/bb1_open_rr3.wav
+sample=../Samples/bb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/bb1_open_rr4.wav
+sample=../Samples/bb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -636,21 +636,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/b1_close_rr1.wav
+sample=../Samples/b1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/b1_close_rr2.wav
+sample=../Samples/b1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/b1_close_rr3.wav
+sample=../Samples/b1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/b1_close_rr4.wav
+sample=../Samples/b1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -665,21 +665,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/b1_open_rr1.wav
+sample=../Samples/b1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/b1_open_rr2.wav
+sample=../Samples/b1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/b1_open_rr3.wav
+sample=../Samples/b1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/b1_open_rr4.wav
+sample=../Samples/b1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -693,21 +693,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/c2_close_rr1.wav
+sample=../Samples/c2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_close_rr2.wav
+sample=../Samples/c2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_close_rr3.wav
+sample=../Samples/c2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_close_rr4.wav
+sample=../Samples/c2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -722,21 +722,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/c2_open_rr1.wav
+sample=../Samples/c2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_open_rr2.wav
+sample=../Samples/c2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_open_rr3.wav
+sample=../Samples/c2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_open_rr4.wav
+sample=../Samples/c2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -750,21 +750,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/db2_close_rr1.wav
+sample=../Samples/db2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db2_close_rr2.wav
+sample=../Samples/db2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db2_close_rr3.wav
+sample=../Samples/db2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db2_close_rr4.wav
+sample=../Samples/db2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -779,21 +779,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/db2_open_rr1.wav
+sample=../Samples/db2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db2_open_rr2.wav
+sample=../Samples/db2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db2_open_rr3.wav
+sample=../Samples/db2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db2_open_rr4.wav
+sample=../Samples/db2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -807,21 +807,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/d2_close_rr1.wav
+sample=../Samples/d2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d2_close_rr2.wav
+sample=../Samples/d2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d2_close_rr3.wav
+sample=../Samples/d2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d2_close_rr4.wav
+sample=../Samples/d2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -836,21 +836,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/d2_open_rr1.wav
+sample=../Samples/d2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d2_open_rr2.wav
+sample=../Samples/d2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d2_open_rr3.wav
+sample=../Samples/d2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d2_open_rr4.wav
+sample=../Samples/d2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -864,21 +864,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/eb2_close_rr1.wav
+sample=../Samples/eb2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb2_close_rr2.wav
+sample=../Samples/eb2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb2_close_rr3.wav
+sample=../Samples/eb2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb2_close_rr4.wav
+sample=../Samples/eb2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -893,21 +893,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/eb2_open_rr1.wav
+sample=../Samples/eb2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb2_open_rr2.wav
+sample=../Samples/eb2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb2_open_rr3.wav
+sample=../Samples/eb2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb2_open_rr4.wav
+sample=../Samples/eb2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -921,21 +921,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/f2_close_rr1.wav
+sample=../Samples/f2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f2_close_rr2.wav
+sample=../Samples/f2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f2_close_rr3.wav
+sample=../Samples/f2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f2_close_rr4.wav
+sample=../Samples/f2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -950,21 +950,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/f2_open_rr1.wav
+sample=../Samples/f2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f2_open_rr2.wav
+sample=../Samples/f2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f2_open_rr3.wav
+sample=../Samples/f2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f2_open_rr4.wav
+sample=../Samples/f2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -978,21 +978,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/gb2_close_rr1.wav
+sample=../Samples/gb2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb2_close_rr2.wav
+sample=../Samples/gb2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb2_close_rr3.wav
+sample=../Samples/gb2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb2_close_rr4.wav
+sample=../Samples/gb2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1007,21 +1007,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/gb2_open_rr1.wav
+sample=../Samples/gb2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb2_open_rr2.wav
+sample=../Samples/gb2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb2_open_rr3.wav
+sample=../Samples/gb2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb2_open_rr4.wav
+sample=../Samples/gb2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1035,21 +1035,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/g2_close_rr1.wav
+sample=../Samples/g2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g2_close_rr2.wav
+sample=../Samples/g2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g2_close_rr3.wav
+sample=../Samples/g2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g2_close_rr4.wav
+sample=../Samples/g2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1064,21 +1064,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/g2_open_rr1.wav
+sample=../Samples/g2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g2_open_rr2.wav
+sample=../Samples/g2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g2_open_rr3.wav
+sample=../Samples/g2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g2_open_rr4.wav
+sample=../Samples/g2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1092,21 +1092,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/ab2_close_rr1.wav
+sample=../Samples/ab2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab2_close_rr2.wav
+sample=../Samples/ab2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab2_close_rr3.wav
+sample=../Samples/ab2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab2_close_rr4.wav
+sample=../Samples/ab2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1121,21 +1121,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/ab2_open_rr1.wav
+sample=../Samples/ab2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab2_open_rr2.wav
+sample=../Samples/ab2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab2_open_rr3.wav
+sample=../Samples/ab2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab2_open_rr4.wav
+sample=../Samples/ab2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1149,21 +1149,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/a1_close_rr1.wav
+sample=../Samples/a1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/a1_close_rr2.wav
+sample=../Samples/a1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/a1_close_rr3.wav
+sample=../Samples/a1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/a1_close_rr4.wav
+sample=../Samples/a1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1178,21 +1178,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/a1_open_rr1.wav
+sample=../Samples/a1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/a1_open_rr2.wav
+sample=../Samples/a1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/a1_open_rr3.wav
+sample=../Samples/a1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/a1_open_rr4.wav
+sample=../Samples/a1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1206,21 +1206,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/bb1_close_rr1.wav
+sample=../Samples/bb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/bb1_close_rr2.wav
+sample=../Samples/bb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/bb1_close_rr3.wav
+sample=../Samples/bb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/bb1_close_rr4.wav
+sample=../Samples/bb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1235,21 +1235,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/bb1_open_rr1.wav
+sample=../Samples/bb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/bb1_open_rr2.wav
+sample=../Samples/bb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/bb1_open_rr3.wav
+sample=../Samples/bb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/bb1_open_rr4.wav
+sample=../Samples/bb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1263,21 +1263,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/b1_close_rr1.wav
+sample=../Samples/b1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/b1_close_rr2.wav
+sample=../Samples/b1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/b1_close_rr3.wav
+sample=../Samples/b1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/b1_close_rr4.wav
+sample=../Samples/b1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1292,21 +1292,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/b1_open_rr1.wav
+sample=../Samples/b1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/b1_open_rr2.wav
+sample=../Samples/b1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/b1_open_rr3.wav
+sample=../Samples/b1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/b1_open_rr4.wav
+sample=../Samples/b1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1319,21 +1319,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/c2_close_rr1.wav
+sample=../Samples/c2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_close_rr2.wav
+sample=../Samples/c2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_close_rr3.wav
+sample=../Samples/c2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_close_rr4.wav
+sample=../Samples/c2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1347,21 +1347,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/c2_open_rr1.wav
+sample=../Samples/c2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_open_rr2.wav
+sample=../Samples/c2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_open_rr3.wav
+sample=../Samples/c2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_open_rr4.wav
+sample=../Samples/c2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1375,21 +1375,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/db2_close_rr1.wav
+sample=../Samples/db2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db2_close_rr2.wav
+sample=../Samples/db2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db2_close_rr3.wav
+sample=../Samples/db2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db2_close_rr4.wav
+sample=../Samples/db2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1404,21 +1404,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/db2_open_rr1.wav
+sample=../Samples/db2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db2_open_rr2.wav
+sample=../Samples/db2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db2_open_rr3.wav
+sample=../Samples/db2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db2_open_rr4.wav
+sample=../Samples/db2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1432,21 +1432,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/d2_close_rr1.wav
+sample=../Samples/d2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d2_close_rr2.wav
+sample=../Samples/d2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d2_close_rr3.wav
+sample=../Samples/d2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d2_close_rr4.wav
+sample=../Samples/d2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1461,21 +1461,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/d2_open_rr1.wav
+sample=../Samples/d2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d2_open_rr2.wav
+sample=../Samples/d2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d2_open_rr3.wav
+sample=../Samples/d2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d2_open_rr4.wav
+sample=../Samples/d2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1489,21 +1489,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/eb2_close_rr1.wav
+sample=../Samples/eb2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb2_close_rr2.wav
+sample=../Samples/eb2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb2_close_rr3.wav
+sample=../Samples/eb2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb2_close_rr4.wav
+sample=../Samples/eb2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1518,21 +1518,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/eb2_open_rr1.wav
+sample=../Samples/eb2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb2_open_rr2.wav
+sample=../Samples/eb2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb2_open_rr3.wav
+sample=../Samples/eb2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb2_open_rr4.wav
+sample=../Samples/eb2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1546,21 +1546,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/f2_close_rr1.wav
+sample=../Samples/f2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f2_close_rr2.wav
+sample=../Samples/f2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f2_close_rr3.wav
+sample=../Samples/f2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f2_close_rr4.wav
+sample=../Samples/f2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1575,21 +1575,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/f2_open_rr1.wav
+sample=../Samples/f2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f2_open_rr2.wav
+sample=../Samples/f2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f2_open_rr3.wav
+sample=../Samples/f2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f2_open_rr4.wav
+sample=../Samples/f2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1603,21 +1603,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/gb2_close_rr1.wav
+sample=../Samples/gb2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb2_close_rr2.wav
+sample=../Samples/gb2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb2_close_rr3.wav
+sample=../Samples/gb2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb2_close_rr4.wav
+sample=../Samples/gb2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1632,21 +1632,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/gb2_open_rr1.wav
+sample=../Samples/gb2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb2_open_rr2.wav
+sample=../Samples/gb2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb2_open_rr3.wav
+sample=../Samples/gb2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb2_open_rr4.wav
+sample=../Samples/gb2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1660,21 +1660,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/g2_close_rr1.wav
+sample=../Samples/g2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g2_close_rr2.wav
+sample=../Samples/g2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g2_close_rr3.wav
+sample=../Samples/g2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g2_close_rr4.wav
+sample=../Samples/g2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1689,21 +1689,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/g2_open_rr1.wav
+sample=../Samples/g2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g2_open_rr2.wav
+sample=../Samples/g2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g2_open_rr3.wav
+sample=../Samples/g2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g2_open_rr4.wav
+sample=../Samples/g2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -1717,21 +1717,21 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/ab2_close_rr1.wav
+sample=../Samples/ab2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab2_close_rr2.wav
+sample=../Samples/ab2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab2_close_rr3.wav
+sample=../Samples/ab2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab2_close_rr4.wav
+sample=../Samples/ab2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -1746,19 +1746,19 @@ ampeg_attackcc100=0.010
 xfin_hicc121=127
 
 <region>
-sample=../Samples/ab2_open_rr1.wav
+sample=../Samples/ab2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab2_open_rr2.wav
+sample=../Samples/ab2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab2_open_rr3.wav
+sample=../Samples/ab2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab2_open_rr4.wav
+sample=../Samples/ab2_open_rr4.flac
 lorand=0.750

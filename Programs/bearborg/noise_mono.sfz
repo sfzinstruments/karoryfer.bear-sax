@@ -12,14 +12,14 @@ locc121=64
 amp_velcurve_63=0.3
 
 <region>
-sample=../Samples/breath_osc_1.wav
+sample=../Samples/breath_osc_1.flac
 pan_oncc82=100
 offset_random=34626
 group=1
 off_by=1
 
 <region>
-sample=../Samples/breath_osc_2.wav
+sample=../Samples/breath_osc_2.flac
 pan_oncc82=-100
 offset_random=24614
 group=2
