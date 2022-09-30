@@ -8,7 +8,7 @@ locc86=1
 locc121=64
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=24
 hikey=24
 trigger=legato
@@ -17,7 +17,7 @@ pitch_keycenter=39
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=24
 hikey=24
 trigger=first
@@ -25,7 +25,7 @@ offset_random=3452
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=25
 hikey=25
 trigger=legato
@@ -34,7 +34,7 @@ pitch_keycenter=37
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=25
 hikey=25
 trigger=first
@@ -42,7 +42,7 @@ offset_random=4546
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=26
 hikey=26
 trigger=legato
@@ -51,7 +51,7 @@ pitch_keycenter=38
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=26
 hikey=26
 trigger=first
@@ -59,7 +59,7 @@ offset_random=1345
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=27
 hikey=27
 trigger=legato
@@ -68,7 +68,7 @@ pitch_keycenter=39
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=27
 hikey=27
 trigger=first
@@ -76,7 +76,7 @@ offset_random=3452
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=28
 hikey=28
 trigger=legato
@@ -85,7 +85,7 @@ pitch_keycenter=37
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=28
 hikey=28
 trigger=first
@@ -93,7 +93,7 @@ offset_random=4546
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=29
 hikey=29
 trigger=legato
@@ -102,7 +102,7 @@ pitch_keycenter=38
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=29
 hikey=29
 trigger=first
@@ -110,7 +110,7 @@ offset_random=1345
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=30
 hikey=30
 trigger=legato
@@ -119,7 +119,7 @@ pitch_keycenter=39
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=30
 hikey=30
 trigger=first
@@ -127,7 +127,7 @@ offset_random=3452
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=31
 hikey=31
 trigger=legato
@@ -136,7 +136,7 @@ pitch_keycenter=37
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=31
 hikey=31
 trigger=first
@@ -144,7 +144,7 @@ offset_random=4546
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=32
 hikey=32
 trigger=legato
@@ -153,7 +153,7 @@ pitch_keycenter=38
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=32
 hikey=32
 trigger=first
@@ -161,7 +161,7 @@ offset_random=1345
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=33
 hikey=33
 trigger=legato
@@ -170,7 +170,7 @@ pitch_keycenter=39
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=33
 hikey=33
 trigger=first
@@ -178,7 +178,7 @@ offset_random=3452
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=34
 hikey=34
 trigger=legato
@@ -187,7 +187,7 @@ pitch_keycenter=37
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=34
 hikey=34
 trigger=first
@@ -195,7 +195,7 @@ offset_random=4546
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=35
 hikey=35
 trigger=legato
@@ -204,7 +204,7 @@ pitch_keycenter=38
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=35
 hikey=35
 trigger=first
@@ -212,7 +212,7 @@ offset_random=1345
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=36
 hikey=36
 trigger=legato
@@ -221,7 +221,7 @@ pitch_keycenter=39
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=36
 hikey=36
 trigger=first
@@ -229,7 +229,7 @@ offset_random=3452
 pitch_keycenter=39
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=37
 hikey=37
 trigger=legato
@@ -238,7 +238,7 @@ pitch_keycenter=37
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db1_single_cycle.wav
+sample=../Samples/db1_single_cycle.flac
 lokey=37
 hikey=37
 trigger=first
@@ -246,7 +246,7 @@ offset_random=4546
 pitch_keycenter=37
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=38
 hikey=38
 trigger=legato
@@ -255,7 +255,7 @@ pitch_keycenter=38
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d1_single_cycle.wav
+sample=../Samples/d1_single_cycle.flac
 lokey=38
 hikey=38
 trigger=first
@@ -263,7 +263,7 @@ offset_random=1345
 pitch_keycenter=38
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=39
 hikey=39
 trigger=legato
@@ -272,7 +272,7 @@ pitch_keycenter=39
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb1_single_cycle.wav
+sample=../Samples/eb1_single_cycle.flac
 lokey=39
 hikey=39
 trigger=first
@@ -280,7 +280,7 @@ offset_random=8535
 pitch_keycenter=39
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=40
 hikey=40
 trigger=legato
@@ -289,7 +289,7 @@ pitch_keycenter=40
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/e1_single_cycle.wav
+sample=../Samples/e1_single_cycle.flac
 lokey=40
 hikey=40
 trigger=first
@@ -297,7 +297,7 @@ offset_random=5463
 pitch_keycenter=40
 
 <region>
-sample=../Samples/f1_single_cycle.wav
+sample=../Samples/f1_single_cycle.flac
 lokey=41
 hikey=41
 trigger=legato
@@ -306,7 +306,7 @@ pitch_keycenter=41
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/f1_single_cycle.wav
+sample=../Samples/f1_single_cycle.flac
 lokey=41
 hikey=41
 trigger=first
@@ -314,7 +314,7 @@ offset_random=7234
 pitch_keycenter=41
 
 <region>
-sample=../Samples/gb1_single_cycle.wav
+sample=../Samples/gb1_single_cycle.flac
 lokey=42
 hikey=42
 trigger=legato
@@ -323,7 +323,7 @@ pitch_keycenter=42
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/gb1_single_cycle.wav
+sample=../Samples/gb1_single_cycle.flac
 lokey=42
 hikey=42
 trigger=first
@@ -331,7 +331,7 @@ offset_random=4236
 pitch_keycenter=42
 
 <region>
-sample=../Samples/g1_single_cycle.wav
+sample=../Samples/g1_single_cycle.flac
 lokey=43
 hikey=43
 trigger=legato
@@ -340,7 +340,7 @@ pitch_keycenter=43
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/g1_single_cycle.wav
+sample=../Samples/g1_single_cycle.flac
 lokey=43
 hikey=43
 trigger=first
@@ -348,7 +348,7 @@ offset_random=5832
 pitch_keycenter=43
 
 <region>
-sample=../Samples/ab1_single_cycle.wav
+sample=../Samples/ab1_single_cycle.flac
 lokey=44
 hikey=44
 trigger=legato
@@ -357,7 +357,7 @@ pitch_keycenter=44
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/ab1_single_cycle.wav
+sample=../Samples/ab1_single_cycle.flac
 lokey=44
 hikey=44
 trigger=first
@@ -365,7 +365,7 @@ offset_random=8234
 pitch_keycenter=44
 
 <region>
-sample=../Samples/a1_single_cycle.wav
+sample=../Samples/a1_single_cycle.flac
 lokey=45
 hikey=45
 trigger=legato
@@ -374,7 +374,7 @@ pitch_keycenter=45
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/a1_single_cycle.wav
+sample=../Samples/a1_single_cycle.flac
 lokey=45
 hikey=45
 trigger=first
@@ -382,7 +382,7 @@ offset_random=6234
 pitch_keycenter=45
 
 <region>
-sample=../Samples/bb1_single_cycle.wav
+sample=../Samples/bb1_single_cycle.flac
 lokey=46
 hikey=46
 trigger=legato
@@ -391,7 +391,7 @@ pitch_keycenter=46
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/bb1_single_cycle.wav
+sample=../Samples/bb1_single_cycle.flac
 lokey=46
 hikey=46
 trigger=first
@@ -399,7 +399,7 @@ offset_random=7283
 pitch_keycenter=46
 
 <region>
-sample=../Samples/b1_single_cycle.wav
+sample=../Samples/b1_single_cycle.flac
 lokey=47
 hikey=47
 trigger=legato
@@ -408,7 +408,7 @@ pitch_keycenter=47
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/b1_single_cycle.wav
+sample=../Samples/b1_single_cycle.flac
 lokey=47
 hikey=47
 trigger=first
@@ -416,7 +416,7 @@ offset_random=9438
 pitch_keycenter=47
 
 <region>
-sample=../Samples/c2_single_cycle.wav
+sample=../Samples/c2_single_cycle.flac
 lokey=48
 hikey=48
 trigger=legato
@@ -425,7 +425,7 @@ pitch_keycenter=48
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/c2_single_cycle.wav
+sample=../Samples/c2_single_cycle.flac
 lokey=48
 hikey=48
 trigger=first
@@ -433,7 +433,7 @@ offset_random=5328
 pitch_keycenter=48
 
 <region>
-sample=../Samples/db2_single_cycle.wav
+sample=../Samples/db2_single_cycle.flac
 lokey=49
 hikey=49
 trigger=legato
@@ -442,7 +442,7 @@ pitch_keycenter=49
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db2_single_cycle.wav
+sample=../Samples/db2_single_cycle.flac
 lokey=49
 hikey=49
 trigger=first
@@ -450,7 +450,7 @@ offset_random=9742
 pitch_keycenter=49
 
 <region>
-sample=../Samples/d2_single_cycle.wav
+sample=../Samples/d2_single_cycle.flac
 lokey=50
 hikey=50
 trigger=legato
@@ -459,7 +459,7 @@ pitch_keycenter=50
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d2_single_cycle.wav
+sample=../Samples/d2_single_cycle.flac
 lokey=50
 hikey=50
 trigger=first
@@ -467,7 +467,7 @@ offset_random=1392
 pitch_keycenter=50
 
 <region>
-sample=../Samples/eb2_single_cycle.wav
+sample=../Samples/eb2_single_cycle.flac
 lokey=51
 hikey=51
 trigger=legato
@@ -476,7 +476,7 @@ pitch_keycenter=51
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb2_single_cycle.wav
+sample=../Samples/eb2_single_cycle.flac
 lokey=51
 hikey=51
 trigger=first
@@ -484,7 +484,7 @@ offset_random=2754
 pitch_keycenter=51
 
 <region>
-sample=../Samples/e2_single_cycle.wav
+sample=../Samples/e2_single_cycle.flac
 lokey=52
 hikey=52
 trigger=legato
@@ -493,7 +493,7 @@ pitch_keycenter=52
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/e2_single_cycle.wav
+sample=../Samples/e2_single_cycle.flac
 lokey=52
 hikey=52
 trigger=first
@@ -501,7 +501,7 @@ offset_random=8524
 pitch_keycenter=52
 
 <region>
-sample=../Samples/f2_single_cycle.wav
+sample=../Samples/f2_single_cycle.flac
 lokey=53
 hikey=53
 trigger=legato
@@ -510,7 +510,7 @@ pitch_keycenter=53
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/f2_single_cycle.wav
+sample=../Samples/f2_single_cycle.flac
 lokey=53
 hikey=53
 trigger=first
@@ -518,7 +518,7 @@ offset_random=3643
 pitch_keycenter=53
 
 <region>
-sample=../Samples/gb2_single_cycle.wav
+sample=../Samples/gb2_single_cycle.flac
 lokey=54
 hikey=54
 trigger=legato
@@ -527,7 +527,7 @@ pitch_keycenter=54
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/gb2_single_cycle.wav
+sample=../Samples/gb2_single_cycle.flac
 lokey=54
 hikey=54
 trigger=first
@@ -535,7 +535,7 @@ offset_random=7234
 pitch_keycenter=54
 
 <region>
-sample=../Samples/g2_single_cycle.wav
+sample=../Samples/g2_single_cycle.flac
 lokey=55
 hikey=55
 trigger=legato
@@ -544,7 +544,7 @@ pitch_keycenter=55
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/g2_single_cycle.wav
+sample=../Samples/g2_single_cycle.flac
 lokey=55
 hikey=55
 trigger=first
@@ -552,7 +552,7 @@ offset_random=9325
 pitch_keycenter=55
 
 <region>
-sample=../Samples/ab2_single_cycle.wav
+sample=../Samples/ab2_single_cycle.flac
 lokey=56
 hikey=56
 trigger=legato
@@ -561,7 +561,7 @@ pitch_keycenter=56
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/ab2_single_cycle.wav
+sample=../Samples/ab2_single_cycle.flac
 lokey=56
 hikey=56
 trigger=first
@@ -569,7 +569,7 @@ offset_random=3468
 pitch_keycenter=56
 
 <region>
-sample=../Samples/a2_single_cycle.wav
+sample=../Samples/a2_single_cycle.flac
 lokey=57
 hikey=57
 trigger=legato
@@ -578,7 +578,7 @@ pitch_keycenter=57
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/a2_single_cycle.wav
+sample=../Samples/a2_single_cycle.flac
 lokey=57
 hikey=57
 trigger=first
@@ -586,7 +586,7 @@ offset_random=7542
 pitch_keycenter=57
 
 <region>
-sample=../Samples/bb2_single_cycle.wav
+sample=../Samples/bb2_single_cycle.flac
 lokey=58
 hikey=58
 trigger=legato
@@ -595,7 +595,7 @@ pitch_keycenter=58
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/bb2_single_cycle.wav
+sample=../Samples/bb2_single_cycle.flac
 lokey=58
 hikey=58
 trigger=first
@@ -603,7 +603,7 @@ offset_random=2834
 pitch_keycenter=58
 
 <region>
-sample=../Samples/b2_single_cycle.wav
+sample=../Samples/b2_single_cycle.flac
 lokey=59
 hikey=59
 trigger=legato
@@ -612,7 +612,7 @@ pitch_keycenter=59
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/b2_single_cycle.wav
+sample=../Samples/b2_single_cycle.flac
 lokey=59
 hikey=59
 trigger=first
@@ -620,7 +620,7 @@ offset_random=5845
 pitch_keycenter=59
 
 <region>
-sample=../Samples/c3_single_cycle.wav
+sample=../Samples/c3_single_cycle.flac
 lokey=60
 hikey=60
 trigger=legato
@@ -628,14 +628,14 @@ offset_random=7892
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/c3_single_cycle.wav
+sample=../Samples/c3_single_cycle.flac
 lokey=60
 hikey=60
 trigger=first
 offset_random=7892
 
 <region>
-sample=../Samples/db3_single_cycle.wav
+sample=../Samples/db3_single_cycle.flac
 lokey=61
 hikey=61
 trigger=legato
@@ -644,7 +644,7 @@ pitch_keycenter=61
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/db3_single_cycle.wav
+sample=../Samples/db3_single_cycle.flac
 lokey=61
 hikey=61
 trigger=first
@@ -652,7 +652,7 @@ offset_random=5273
 pitch_keycenter=61
 
 <region>
-sample=../Samples/d3_single_cycle.wav
+sample=../Samples/d3_single_cycle.flac
 lokey=62
 hikey=62
 trigger=legato
@@ -661,7 +661,7 @@ pitch_keycenter=62
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/d3_single_cycle.wav
+sample=../Samples/d3_single_cycle.flac
 lokey=62
 hikey=62
 trigger=first
@@ -669,7 +669,7 @@ offset_random=2057
 pitch_keycenter=62
 
 <region>
-sample=../Samples/eb3_single_cycle.wav
+sample=../Samples/eb3_single_cycle.flac
 lokey=63
 hikey=63
 trigger=legato
@@ -678,7 +678,7 @@ pitch_keycenter=63
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/eb3_single_cycle.wav
+sample=../Samples/eb3_single_cycle.flac
 lokey=63
 hikey=63
 trigger=first
@@ -686,7 +686,7 @@ offset_random=9248
 pitch_keycenter=63
 
 <region>
-sample=../Samples/e3_single_cycle.wav
+sample=../Samples/e3_single_cycle.flac
 lokey=64
 hikey=64
 trigger=legato
@@ -695,7 +695,7 @@ pitch_keycenter=64
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/e3_single_cycle.wav
+sample=../Samples/e3_single_cycle.flac
 lokey=64
 hikey=64
 trigger=first
@@ -703,7 +703,7 @@ offset_random=7245
 pitch_keycenter=64
 
 <region>
-sample=../Samples/f3_single_cycle.wav
+sample=../Samples/f3_single_cycle.flac
 lokey=65
 hikey=65
 trigger=legato
@@ -712,7 +712,7 @@ pitch_keycenter=65
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/f3_single_cycle.wav
+sample=../Samples/f3_single_cycle.flac
 lokey=65
 hikey=65
 trigger=first
@@ -720,7 +720,7 @@ offset_random=6235
 pitch_keycenter=65
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=66
 hikey=66
 trigger=legato
@@ -729,7 +729,7 @@ pitch_keycenter=66
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=66
 hikey=66
 trigger=first
@@ -737,7 +737,7 @@ offset_random=7422
 pitch_keycenter=66
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=67
 hikey=67
 trigger=legato
@@ -746,7 +746,7 @@ pitch_keycenter=67
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=67
 hikey=67
 trigger=first
@@ -754,7 +754,7 @@ offset_random=8456
 pitch_keycenter=67
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=68
 hikey=68
 trigger=legato
@@ -763,7 +763,7 @@ pitch_keycenter=68
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=68
 hikey=68
 trigger=first
@@ -771,7 +771,7 @@ offset_random=8674
 pitch_keycenter=68
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=69
 hikey=69
 trigger=legato
@@ -780,7 +780,7 @@ pitch_keycenter=66
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=69
 hikey=69
 trigger=first
@@ -788,7 +788,7 @@ offset_random=4542
 pitch_keycenter=66
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=70
 hikey=70
 trigger=legato
@@ -797,7 +797,7 @@ pitch_keycenter=67
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/g3_single_cycle.wav
+sample=../Samples/g3_single_cycle.flac
 lokey=70
 hikey=70
 trigger=first
@@ -805,7 +805,7 @@ offset_random=3234
 pitch_keycenter=67
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=71
 hikey=71
 trigger=legato
@@ -814,7 +814,7 @@ pitch_keycenter=68
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/ab3_single_cycle.wav
+sample=../Samples/ab3_single_cycle.flac
 lokey=71
 hikey=71
 trigger=first
@@ -822,7 +822,7 @@ offset_random=8481
 pitch_keycenter=68
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=72
 hikey=72
 trigger=legato
@@ -831,7 +831,7 @@ pitch_keycenter=66
 eg06_time1_oncc120=0.5
 
 <region>
-sample=../Samples/gb3_single_cycle.wav
+sample=../Samples/gb3_single_cycle.flac
 lokey=72
 hikey=72
 trigger=first

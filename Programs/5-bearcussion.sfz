@@ -21,21 +21,21 @@ pitch_oncc94=-1200
 pan_oncc82=10
 
 <region>
-sample=../Samples/db1_close_rr1.wav
+sample=../Samples/db1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db1_close_rr2.wav
+sample=../Samples/db1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db1_close_rr3.wav
+sample=../Samples/db1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db1_close_rr4.wav
+sample=../Samples/db1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -47,21 +47,21 @@ pitch_oncc94=-1066
 pan_oncc82=-20
 
 <region>
-sample=../Samples/d1_close_rr1.wav
+sample=../Samples/d1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d1_close_rr2.wav
+sample=../Samples/d1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d1_close_rr3.wav
+sample=../Samples/d1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d1_close_rr4.wav
+sample=../Samples/d1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -73,21 +73,21 @@ pitch_oncc94=-933
 pan_oncc82=20
 
 <region>
-sample=../Samples/eb1_close_rr1.wav
+sample=../Samples/eb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb1_close_rr2.wav
+sample=../Samples/eb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb1_close_rr3.wav
+sample=../Samples/eb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb1_close_rr4.wav
+sample=../Samples/eb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -99,21 +99,21 @@ pitch_oncc94=-800
 pan_oncc82=-30
 
 <region>
-sample=../Samples/e1_close_rr1.wav
+sample=../Samples/e1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/e1_close_rr2.wav
+sample=../Samples/e1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/e1_close_rr3.wav
+sample=../Samples/e1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/e1_close_rr4.wav
+sample=../Samples/e1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -125,21 +125,21 @@ pitch_oncc94=-666
 pan_oncc82=30
 
 <region>
-sample=../Samples/f1_close_rr1.wav
+sample=../Samples/f1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f1_close_rr2.wav
+sample=../Samples/f1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f1_close_rr3.wav
+sample=../Samples/f1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f1_close_rr4.wav
+sample=../Samples/f1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -151,21 +151,21 @@ pitch_oncc94=-533
 pan_oncc82=-40
 
 <region>
-sample=../Samples/gb1_close_rr1.wav
+sample=../Samples/gb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb1_close_rr2.wav
+sample=../Samples/gb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb1_close_rr3.wav
+sample=../Samples/gb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb1_close_rr4.wav
+sample=../Samples/gb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -177,21 +177,21 @@ pitch_oncc94=-400
 pan_oncc82=40
 
 <region>
-sample=../Samples/g1_close_rr1.wav
+sample=../Samples/g1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g1_close_rr2.wav
+sample=../Samples/g1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g1_close_rr3.wav
+sample=../Samples/g1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g1_close_rr4.wav
+sample=../Samples/g1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -203,21 +203,21 @@ pitch_oncc94=-266
 pan_oncc82=-50
 
 <region>
-sample=../Samples/ab1_close_rr1.wav
+sample=../Samples/ab1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab1_close_rr2.wav
+sample=../Samples/ab1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab1_close_rr3.wav
+sample=../Samples/ab1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab1_close_rr4.wav
+sample=../Samples/ab1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -229,21 +229,21 @@ pitch_oncc94=-133
 pan_oncc82=50
 
 <region>
-sample=../Samples/a1_close_rr1.wav
+sample=../Samples/a1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/a1_close_rr2.wav
+sample=../Samples/a1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/a1_close_rr3.wav
+sample=../Samples/a1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/a1_close_rr4.wav
+sample=../Samples/a1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -255,21 +255,21 @@ pitch_oncc94=0
 pan_oncc82=-60
 
 <region>
-sample=../Samples/bb1_close_rr1.wav
+sample=../Samples/bb1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/bb1_close_rr2.wav
+sample=../Samples/bb1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/bb1_close_rr3.wav
+sample=../Samples/bb1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/bb1_close_rr4.wav
+sample=../Samples/bb1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -281,21 +281,21 @@ pitch_oncc94=133
 pan_oncc82=60
 
 <region>
-sample=../Samples/b1_close_rr1.wav
+sample=../Samples/b1_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/b1_close_rr2.wav
+sample=../Samples/b1_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/b1_close_rr3.wav
+sample=../Samples/b1_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/b1_close_rr4.wav
+sample=../Samples/b1_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -307,21 +307,21 @@ pitch_oncc94=266
 pan_oncc82=-70
 
 <region>
-sample=../Samples/c2_close_rr1.wav
+sample=../Samples/c2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_close_rr2.wav
+sample=../Samples/c2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_close_rr3.wav
+sample=../Samples/c2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_close_rr4.wav
+sample=../Samples/c2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -333,21 +333,21 @@ pitch_oncc94=400
 pan_oncc82=70
 
 <region>
-sample=../Samples/db2_close_rr1.wav
+sample=../Samples/db2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db2_close_rr2.wav
+sample=../Samples/db2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db2_close_rr3.wav
+sample=../Samples/db2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db2_close_rr4.wav
+sample=../Samples/db2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -359,21 +359,21 @@ pitch_oncc94=533
 pan_oncc82=-80
 
 <region>
-sample=../Samples/d2_close_rr1.wav
+sample=../Samples/d2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d2_close_rr2.wav
+sample=../Samples/d2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d2_close_rr3.wav
+sample=../Samples/d2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d2_close_rr4.wav
+sample=../Samples/d2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -385,21 +385,21 @@ pitch_oncc94=666
 pan_oncc82=80
 
 <region>
-sample=../Samples/eb2_close_rr1.wav
+sample=../Samples/eb2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb2_close_rr2.wav
+sample=../Samples/eb2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb2_close_rr3.wav
+sample=../Samples/eb2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb2_close_rr4.wav
+sample=../Samples/eb2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -411,21 +411,21 @@ pitch_oncc94=800
 pan_oncc82=-90
 
 <region>
-sample=../Samples/f2_close_rr1.wav
+sample=../Samples/f2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f2_close_rr2.wav
+sample=../Samples/f2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f2_close_rr3.wav
+sample=../Samples/f2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f2_close_rr4.wav
+sample=../Samples/f2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -437,21 +437,21 @@ pitch_oncc94=933
 pan_oncc82=90
 
 <region>
-sample=../Samples/gb2_close_rr1.wav
+sample=../Samples/gb2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb2_close_rr2.wav
+sample=../Samples/gb2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb2_close_rr3.wav
+sample=../Samples/gb2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb2_close_rr4.wav
+sample=../Samples/gb2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -463,21 +463,21 @@ pitch_oncc94=1066
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g2_close_rr1.wav
+sample=../Samples/g2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g2_close_rr2.wav
+sample=../Samples/g2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g2_close_rr3.wav
+sample=../Samples/g2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g2_close_rr4.wav
+sample=../Samples/g2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -489,21 +489,21 @@ pitch_oncc94=1200
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab2_close_rr1.wav
+sample=../Samples/ab2_close_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab2_close_rr2.wav
+sample=../Samples/ab2_close_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab2_close_rr3.wav
+sample=../Samples/ab2_close_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab2_close_rr4.wav
+sample=../Samples/ab2_close_rr4.flac
 lorand=0.750
 
 //========================
@@ -515,21 +515,21 @@ pitch_oncc94=-788
 pan_oncc82=-10
 
 <region>
-sample=../Samples/db1_open_rr1.wav
+sample=../Samples/db1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db1_open_rr2.wav
+sample=../Samples/db1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db1_open_rr3.wav
+sample=../Samples/db1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db1_open_rr4.wav
+sample=../Samples/db1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -541,21 +541,21 @@ pitch_oncc94=-700
 pan_oncc82=-20
 
 <region>
-sample=../Samples/d1_open_rr1.wav
+sample=../Samples/d1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d1_open_rr2.wav
+sample=../Samples/d1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d1_open_rr3.wav
+sample=../Samples/d1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d1_open_rr4.wav
+sample=../Samples/d1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -567,21 +567,21 @@ pitch_oncc94=-613
 pan_oncc82=20
 
 <region>
-sample=../Samples/eb1_open_rr1.wav
+sample=../Samples/eb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb1_open_rr2.wav
+sample=../Samples/eb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb1_open_rr3.wav
+sample=../Samples/eb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb1_open_rr4.wav
+sample=../Samples/eb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -593,21 +593,21 @@ pitch_oncc94=-525
 pan_oncc82=-30
 
 <region>
-sample=../Samples/e1_open_rr1.wav
+sample=../Samples/e1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/e1_open_rr2.wav
+sample=../Samples/e1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/e1_open_rr3.wav
+sample=../Samples/e1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/e1_open_rr4.wav
+sample=../Samples/e1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -619,21 +619,21 @@ pitch_oncc94=-438
 pan_oncc82=30
 
 <region>
-sample=../Samples/f1_open_rr1.wav
+sample=../Samples/f1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f1_open_rr2.wav
+sample=../Samples/f1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f1_open_rr3.wav
+sample=../Samples/f1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f1_open_rr4.wav
+sample=../Samples/f1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -645,21 +645,21 @@ pitch_oncc94=-352
 pan_oncc82=-40
 
 <region>
-sample=../Samples/gb1_open_rr1.wav
+sample=../Samples/gb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb1_open_rr2.wav
+sample=../Samples/gb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb1_open_rr3.wav
+sample=../Samples/gb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb1_open_rr4.wav
+sample=../Samples/gb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -671,21 +671,21 @@ pitch_oncc94=-263
 pan_oncc82=40
 
 <region>
-sample=../Samples/g1_open_rr1.wav
+sample=../Samples/g1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g1_open_rr2.wav
+sample=../Samples/g1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g1_open_rr3.wav
+sample=../Samples/g1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g1_open_rr4.wav
+sample=../Samples/g1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -697,21 +697,21 @@ pitch_oncc94=-175
 pan_oncc82=-50
 
 <region>
-sample=../Samples/ab1_open_rr1.wav
+sample=../Samples/ab1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab1_open_rr2.wav
+sample=../Samples/ab1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab1_open_rr3.wav
+sample=../Samples/ab1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab1_open_rr4.wav
+sample=../Samples/ab1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -723,21 +723,21 @@ pitch_oncc94=-88
 pan_oncc82=50
 
 <region>
-sample=../Samples/a1_open_rr1.wav
+sample=../Samples/a1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/a1_open_rr2.wav
+sample=../Samples/a1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/a1_open_rr3.wav
+sample=../Samples/a1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/a1_open_rr4.wav
+sample=../Samples/a1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -749,21 +749,21 @@ pitch_oncc94=0
 pan_oncc82=-60
 
 <region>
-sample=../Samples/bb1_open_rr1.wav
+sample=../Samples/bb1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/bb1_open_rr2.wav
+sample=../Samples/bb1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/bb1_open_rr3.wav
+sample=../Samples/bb1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/bb1_open_rr4.wav
+sample=../Samples/bb1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -775,21 +775,21 @@ pitch_oncc94=88
 pan_oncc82=60
 
 <region>
-sample=../Samples/b1_open_rr1.wav
+sample=../Samples/b1_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/b1_open_rr2.wav
+sample=../Samples/b1_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/b1_open_rr3.wav
+sample=../Samples/b1_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/b1_open_rr4.wav
+sample=../Samples/b1_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -801,21 +801,21 @@ pitch_oncc94=175
 pan_oncc82=-70
 
 <region>
-sample=../Samples/c2_open_rr1.wav
+sample=../Samples/c2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/c2_open_rr2.wav
+sample=../Samples/c2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/c2_open_rr3.wav
+sample=../Samples/c2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/c2_open_rr4.wav
+sample=../Samples/c2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -827,21 +827,21 @@ pitch_oncc94=263
 pan_oncc82=70
 
 <region>
-sample=../Samples/db2_open_rr1.wav
+sample=../Samples/db2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/db2_open_rr2.wav
+sample=../Samples/db2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/db2_open_rr3.wav
+sample=../Samples/db2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/db2_open_rr4.wav
+sample=../Samples/db2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -853,21 +853,21 @@ pitch_oncc94=350
 pan_oncc82=-80
 
 <region>
-sample=../Samples/d2_open_rr1.wav
+sample=../Samples/d2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/d2_open_rr2.wav
+sample=../Samples/d2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/d2_open_rr3.wav
+sample=../Samples/d2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/d2_open_rr4.wav
+sample=../Samples/d2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -879,21 +879,21 @@ pitch_oncc94=438
 pan_oncc82=80
 
 <region>
-sample=../Samples/eb2_open_rr1.wav
+sample=../Samples/eb2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/eb2_open_rr2.wav
+sample=../Samples/eb2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/eb2_open_rr3.wav
+sample=../Samples/eb2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/eb2_open_rr4.wav
+sample=../Samples/eb2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -905,21 +905,21 @@ pitch_oncc94=525
 pan_oncc82=-90
 
 <region>
-sample=../Samples/f2_open_rr1.wav
+sample=../Samples/f2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/f2_open_rr2.wav
+sample=../Samples/f2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/f2_open_rr3.wav
+sample=../Samples/f2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/f2_open_rr4.wav
+sample=../Samples/f2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -931,21 +931,21 @@ pitch_oncc94=613
 pan_oncc82=90
 
 <region>
-sample=../Samples/gb2_open_rr1.wav
+sample=../Samples/gb2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/gb2_open_rr2.wav
+sample=../Samples/gb2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/gb2_open_rr3.wav
+sample=../Samples/gb2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/gb2_open_rr4.wav
+sample=../Samples/gb2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -957,21 +957,21 @@ pitch_oncc94=700
 pan_oncc82=-100
 
 <region>
-sample=../Samples/g2_open_rr1.wav
+sample=../Samples/g2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/g2_open_rr2.wav
+sample=../Samples/g2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/g2_open_rr3.wav
+sample=../Samples/g2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/g2_open_rr4.wav
+sample=../Samples/g2_open_rr4.flac
 lorand=0.750
 
 //========================
@@ -983,19 +983,19 @@ pitch_oncc94=788
 pan_oncc82=100
 
 <region>
-sample=../Samples/ab2_open_rr1.wav
+sample=../Samples/ab2_open_rr1.flac
 hirand=0.250
 
 <region>
-sample=../Samples/ab2_open_rr2.wav
+sample=../Samples/ab2_open_rr2.flac
 lorand=0.250
 hirand=0.500
 
 <region>
-sample=../Samples/ab2_open_rr3.wav
+sample=../Samples/ab2_open_rr3.flac
 lorand=0.500
 hirand=0.750
 
 <region>
-sample=../Samples/ab2_open_rr4.wav
+sample=../Samples/ab2_open_rr4.flac
 lorand=0.750

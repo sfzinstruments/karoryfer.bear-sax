@@ -5,7 +5,7 @@ amp_veltrack=0
 sw_label=sustain
 
 <region>
-sample=../Samples/d1_looped_p.wav
+sample=../Samples/d1_looped_p.flac
 lokey=36
 hikey=36
 pitch_keycenter=38
@@ -13,7 +13,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=36
 hikey=36
 pitch_keycenter=38
@@ -21,7 +21,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/db1_looped_p.wav
+sample=../Samples/db1_looped_p.flac
 lokey=37
 hikey=37
 pitch_keycenter=37
@@ -29,7 +29,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/db1_looped_f.wav
+sample=../Samples/db1_looped_f.flac
 lokey=37
 hikey=37
 pitch_keycenter=37
@@ -37,7 +37,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/d1_looped_p.wav
+sample=../Samples/d1_looped_p.flac
 lokey=38
 hikey=38
 pitch_keycenter=38
@@ -45,7 +45,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/d1_looped_f.wav
+sample=../Samples/d1_looped_f.flac
 lokey=38
 hikey=38
 pitch_keycenter=38
@@ -53,7 +53,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/eb1_looped_p.wav
+sample=../Samples/eb1_looped_p.flac
 lokey=39
 hikey=39
 pitch_keycenter=39
@@ -61,7 +61,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/eb1_looped_f.wav
+sample=../Samples/eb1_looped_f.flac
 lokey=39
 hikey=39
 pitch_keycenter=39
@@ -69,7 +69,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/e1_looped_p.wav
+sample=../Samples/e1_looped_p.flac
 lokey=40
 hikey=40
 pitch_keycenter=40
@@ -77,7 +77,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/e1_looped_f.wav
+sample=../Samples/e1_looped_f.flac
 lokey=40
 hikey=40
 pitch_keycenter=40
@@ -85,7 +85,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/f1_looped_p.wav
+sample=../Samples/f1_looped_p.flac
 lokey=41
 hikey=41
 pitch_keycenter=41
@@ -93,7 +93,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/f1_looped_f.wav
+sample=../Samples/f1_looped_f.flac
 lokey=41
 hikey=41
 pitch_keycenter=41
@@ -101,7 +101,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/gb1_looped_p.wav
+sample=../Samples/gb1_looped_p.flac
 lokey=42
 hikey=42
 pitch_keycenter=42
@@ -109,7 +109,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/gb1_looped_f.wav
+sample=../Samples/gb1_looped_f.flac
 lokey=42
 hikey=42
 pitch_keycenter=42
@@ -117,7 +117,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/g1_looped_p.wav
+sample=../Samples/g1_looped_p.flac
 lokey=43
 hikey=43
 pitch_keycenter=43
@@ -125,7 +125,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/g1_looped_f.wav
+sample=../Samples/g1_looped_f.flac
 lokey=43
 hikey=43
 pitch_keycenter=43
@@ -133,7 +133,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/ab1_looped_p.wav
+sample=../Samples/ab1_looped_p.flac
 lokey=44
 hikey=44
 pitch_keycenter=44
@@ -141,7 +141,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/ab1_looped_f.wav
+sample=../Samples/ab1_looped_f.flac
 lokey=44
 hikey=44
 pitch_keycenter=44
@@ -149,7 +149,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/a1_looped_p.wav
+sample=../Samples/a1_looped_p.flac
 lokey=45
 hikey=45
 pitch_keycenter=45
@@ -157,7 +157,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/a1_looped_f.wav
+sample=../Samples/a1_looped_f.flac
 lokey=45
 hikey=45
 pitch_keycenter=45
@@ -165,7 +165,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/bb1_looped_p.wav
+sample=../Samples/bb1_looped_p.flac
 lokey=46
 hikey=46
 pitch_keycenter=46
@@ -173,7 +173,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/bb1_looped_f.wav
+sample=../Samples/bb1_looped_f.flac
 lokey=46
 hikey=46
 pitch_keycenter=46
@@ -181,7 +181,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/b1_looped_p.wav
+sample=../Samples/b1_looped_p.flac
 lokey=47
 hikey=47
 pitch_keycenter=47
@@ -189,7 +189,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/b1_looped_f.wav
+sample=../Samples/b1_looped_f.flac
 lokey=47
 hikey=47
 pitch_keycenter=47
@@ -197,7 +197,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/c2_looped_p.wav
+sample=../Samples/c2_looped_p.flac
 lokey=48
 hikey=48
 pitch_keycenter=48
@@ -205,7 +205,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/c2_looped_f.wav
+sample=../Samples/c2_looped_f.flac
 lokey=48
 hikey=48
 pitch_keycenter=48
@@ -213,7 +213,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/db2_looped_p.wav
+sample=../Samples/db2_looped_p.flac
 lokey=49
 hikey=49
 pitch_keycenter=49
@@ -221,7 +221,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/db2_looped_f.wav
+sample=../Samples/db2_looped_f.flac
 lokey=49
 hikey=49
 pitch_keycenter=49
@@ -229,7 +229,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/d2_looped_p.wav
+sample=../Samples/d2_looped_p.flac
 lokey=50
 hikey=50
 pitch_keycenter=50
@@ -237,7 +237,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/d2_looped_f.wav
+sample=../Samples/d2_looped_f.flac
 lokey=50
 hikey=50
 pitch_keycenter=50
@@ -245,7 +245,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/eb2_looped_p.wav
+sample=../Samples/eb2_looped_p.flac
 lokey=51
 hikey=51
 pitch_keycenter=51
@@ -253,7 +253,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/eb2_looped_f.wav
+sample=../Samples/eb2_looped_f.flac
 lokey=51
 hikey=51
 pitch_keycenter=51
@@ -261,7 +261,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/e2_looped_p.wav
+sample=../Samples/e2_looped_p.flac
 lokey=52
 hikey=52
 pitch_keycenter=52
@@ -269,7 +269,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/e2_looped_f.wav
+sample=../Samples/e2_looped_f.flac
 lokey=52
 hikey=52
 pitch_keycenter=52
@@ -277,7 +277,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/f2_looped_p.wav
+sample=../Samples/f2_looped_p.flac
 lokey=53
 hikey=53
 pitch_keycenter=53
@@ -285,7 +285,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/f2_looped_f.wav
+sample=../Samples/f2_looped_f.flac
 lokey=53
 hikey=53
 pitch_keycenter=53
@@ -293,7 +293,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/gb2_looped_p.wav
+sample=../Samples/gb2_looped_p.flac
 lokey=54
 hikey=54
 pitch_keycenter=54
@@ -301,7 +301,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/gb2_looped_f.wav
+sample=../Samples/gb2_looped_f.flac
 lokey=54
 hikey=54
 pitch_keycenter=54
@@ -309,7 +309,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/g2_looped_p.wav
+sample=../Samples/g2_looped_p.flac
 lokey=55
 hikey=55
 pitch_keycenter=55
@@ -317,7 +317,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/g2_looped_f.wav
+sample=../Samples/g2_looped_f.flac
 lokey=55
 hikey=55
 pitch_keycenter=55
@@ -325,7 +325,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/ab2_looped_p.wav
+sample=../Samples/ab2_looped_p.flac
 lokey=56
 hikey=56
 pitch_keycenter=56
@@ -333,7 +333,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/ab2_looped_f.wav
+sample=../Samples/ab2_looped_f.flac
 lokey=56
 hikey=56
 pitch_keycenter=56
@@ -341,7 +341,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/a2_looped_p.wav
+sample=../Samples/a2_looped_p.flac
 lokey=57
 hikey=57
 pitch_keycenter=57
@@ -349,7 +349,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/a2_looped_f.wav
+sample=../Samples/a2_looped_f.flac
 lokey=57
 hikey=57
 pitch_keycenter=57
@@ -357,7 +357,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/bb2_looped_p.wav
+sample=../Samples/bb2_looped_p.flac
 lokey=58
 hikey=58
 pitch_keycenter=58
@@ -365,7 +365,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/bb2_looped_f.wav
+sample=../Samples/bb2_looped_f.flac
 lokey=58
 hikey=58
 pitch_keycenter=58
@@ -373,7 +373,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/b2_looped_p.wav
+sample=../Samples/b2_looped_p.flac
 lokey=59
 hikey=59
 pitch_keycenter=59
@@ -381,7 +381,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/b2_looped_f.wav
+sample=../Samples/b2_looped_f.flac
 lokey=59
 hikey=59
 pitch_keycenter=59
@@ -389,21 +389,21 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/c3_looped_p.wav
+sample=../Samples/c3_looped_p.flac
 lokey=60
 hikey=60
 xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/c3_looped_f.wav
+sample=../Samples/c3_looped_f.flac
 lokey=60
 hikey=60
 xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/db3_looped_p.wav
+sample=../Samples/db3_looped_p.flac
 lokey=61
 hikey=61
 pitch_keycenter=61
@@ -411,7 +411,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/db3_looped_f.wav
+sample=../Samples/db3_looped_f.flac
 lokey=61
 hikey=61
 pitch_keycenter=61
@@ -419,7 +419,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/d3_looped_p.wav
+sample=../Samples/d3_looped_p.flac
 lokey=62
 hikey=62
 pitch_keycenter=62
@@ -427,7 +427,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/d3_looped_f.wav
+sample=../Samples/d3_looped_f.flac
 lokey=62
 hikey=62
 pitch_keycenter=62
@@ -435,7 +435,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/eb3_looped_p.wav
+sample=../Samples/eb3_looped_p.flac
 lokey=63
 hikey=63
 pitch_keycenter=63
@@ -443,7 +443,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/eb3_looped_f.wav
+sample=../Samples/eb3_looped_f.flac
 lokey=63
 hikey=63
 pitch_keycenter=63
@@ -451,7 +451,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/e3_looped_p.wav
+sample=../Samples/e3_looped_p.flac
 lokey=64
 hikey=64
 pitch_keycenter=64
@@ -459,7 +459,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/e3_looped_f.wav
+sample=../Samples/e3_looped_f.flac
 lokey=64
 hikey=64
 pitch_keycenter=64
@@ -467,7 +467,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/f3_looped_p.wav
+sample=../Samples/f3_looped_p.flac
 lokey=65
 hikey=65
 pitch_keycenter=65
@@ -475,7 +475,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/f3_looped_f.wav
+sample=../Samples/f3_looped_f.flac
 lokey=65
 hikey=65
 pitch_keycenter=65
@@ -483,7 +483,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/gb3_looped_p.wav
+sample=../Samples/gb3_looped_p.flac
 lokey=66
 hikey=66
 pitch_keycenter=66
@@ -491,7 +491,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/gb3_looped_f.wav
+sample=../Samples/gb3_looped_f.flac
 lokey=66
 hikey=66
 pitch_keycenter=66
@@ -499,7 +499,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/g3_looped_p.wav
+sample=../Samples/g3_looped_p.flac
 lokey=67
 hikey=67
 pitch_keycenter=67
@@ -507,7 +507,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/g3_looped_f.wav
+sample=../Samples/g3_looped_f.flac
 lokey=67
 hikey=67
 pitch_keycenter=67
@@ -515,7 +515,7 @@ xfin_hicc1=127
 xfin_locc1=30
 
 <region>
-sample=../Samples/ab3_looped_p.wav
+sample=../Samples/ab3_looped_p.flac
 lokey=68
 hikey=68
 pitch_keycenter=68
@@ -523,7 +523,7 @@ xfin_hicc1=30
 xfout_locc1=30
 
 <region>
-sample=../Samples/ab3_looped_f.wav
+sample=../Samples/ab3_looped_f.flac
 lokey=68
 hikey=68
 pitch_keycenter=68

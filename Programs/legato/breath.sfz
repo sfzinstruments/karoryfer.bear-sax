@@ -1,6 +1,6 @@
 
 <group>
-sample=../Samples/noise_breath.wav
+sample=../Samples/noise_breath.flac
 group=3
 off_by=3
 lokey=36
